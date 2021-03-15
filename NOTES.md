@@ -99,4 +99,19 @@ Strict vegans may as well give up, thanks to grass-type mons and meat plants.
 Also low on the scale of animacy are artifacts: "magic items" that don't have enough of the relevant complexity to become digimon, but too much to just be inert objects.
 You might need to attune to one to use it, or it might be a bit fiddly to use because it's got proto-preferences.
 Really complex automation winds up either being effectively a mon or being based on a mon jacking in so that the mon's event loop and such can be borrowed.
-This *is* compatible with being a tamer.
+This *is* compatible with being/having a tamer.
+
+There's a few cities, though new tamers don't start in one.
+Rather more small towns and villages: you'll get tiny villages that are more or less monospecies.
+Even random installations like a cafe in the middle of nowhere.
+Towns vary a bit more: most have a single trailmon line.
+
+Another cause of random installations and villages is navigable waterways: locks, lifts, and bridges sometimes have a mon looking after them.
+Yes, there's boats, sometimes mon-hauled, or you can just ride an aquatic mon if you don't mind getting wet (or have a Submarimon).
+You might need a narrowboat to get up some of the thinner canals; it's not the fastest way to get around, but there's sizeable chunks of land with no railway.
+This includes a desert where you can also sail in a sandboat and fish for desert-themed digimon.
+
+The digiworld considers euclidean geometry to be for boring people.
+The aforementioned desert, for instance, has a canal across it that is quite a bit shorter if you're floating on it.
+Indoor spaces have a disconcerting tendency to straight up be in a different worldspace, so subway lines have very different lengths and routes to what you'd expect from station placement.
+Heck, there's a forest with a high-rise tree where climbing a ladder into the permanent cloud at the top takes you to someplace quite different (but beware, where it comes out changes without warning).
