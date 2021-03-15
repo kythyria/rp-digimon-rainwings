@@ -115,3 +115,42 @@ The digiworld considers euclidean geometry to be for boring people.
 The aforementioned desert, for instance, has a canal across it that is quite a bit shorter if you're floating on it.
 Indoor spaces have a disconcerting tendency to straight up be in a different worldspace, so subway lines have very different lengths and routes to what you'd expect from station placement.
 Heck, there's a forest with a high-rise tree where climbing a ladder into the permanent cloud at the top takes you to someplace quite different (but beware, where it comes out changes without warning).
+
+One can either play as a human with a partner digimon, a regular human with spirit jogressing or a lonesome digimon that acts as a self-employed adventurer.
+
+
+------- Possible Character Sheet ------- 
+
+[They call me]
+(Add Character name in here)
+[My code type is]
+(Are you a human or a digimon?)
+[And I my .mon filename is] (optional)
+(If Digimon, what type are you? Erase if human)
+[What I do for a living?]
+(Are you a new tamer? Perhaps you work for Data Squad? Or maybe you are a digimon searching for adventures? The possibilities are endless!)
+
+[Alignment]
+(Chaotic Good, Neutral Evil, etc)
+[I carry with me]
+(A list of items your character carries)
+[This helps me in the digital world]
+(If human, do you wield a digivice that connects you to a spirit digimon? or a digivice that connects with your digimon? Any preferred model?)
+
+[This is my partner!] (Optional)
+(If human, complete this block. If digimon, erase it. Treat both your partner and your spirit form equally for the filling of this section)
+[Partner]
+(Name of your digimon partner + The + Digimon species)
+[Evolutionary line]
+(Self-explanatory, multiple lines are allowed.)
+[Attribute] 
+(Virus, Vaccine, Data, etc)
+[Family]
+(Nightmare Soldiers, Dragon's roar, etc)
+[Attacks]
+(Self-explanatory)
+[Weaponry]
+(Apart from their regular armament that comes with their form, do they employ anything else?)
+
+[Link here additional images]
+(optional)
