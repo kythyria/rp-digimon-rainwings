@@ -121,6 +121,10 @@ One can either play as a human with a partner digimon, a regular human with spir
 
 ------- Possible Character Sheet ------- 
 
+
+-- The Traveler --
+
+
 >They call me
 
 (Add Character name in here)
@@ -138,6 +142,9 @@ One can either play as a human with a partner digimon, a regular human with spir
 (Are you a new tamer? Perhaps you work for Data Squad? Or maybe you are a digimon searching for adventures? The possibilities are endless!)
 
 
+-- A deeper look --
+
+
 >Alignment
 
 (Chaotic Good, Neutral Evil, etc)
@@ -149,6 +156,10 @@ One can either play as a human with a partner digimon, a regular human with spir
 >This helps me in the digital world
 
 (If human, do you wield a digivice that connects you to a spirit digimon? or a digivice that connects with your digimon? Any preferred model?)
+
+
+-- The infallible companion --
+
 
 >This is my partner!(Optional)
 
@@ -168,7 +179,7 @@ One can either play as a human with a partner digimon, a regular human with spir
 
 >Family
 
->(Nightmare Soldiers, Dragon's roar, etc)
+(Nightmare Soldiers, Dragon's roar, etc)
 
 >Attacks
 
@@ -177,6 +188,10 @@ One can either play as a human with a partner digimon, a regular human with spir
 >Weaponry
 
 (Apart from their regular armament that comes with their form, do they employ anything else?)
+
+
+-- The Gallery --
+
 
 >Link here additional images
 (optional)
