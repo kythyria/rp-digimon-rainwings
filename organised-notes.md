@@ -32,7 +32,7 @@ Big and strong is just a digimon thing, it's the brain parts that benefit most f
 Parenthetically, this is why the Gennais prefer to tap children as tamers.
 Not only are the kids more likely to jump at the call to adventure, but they're more likely to have a mindset that lets them grow along with their friends/"mascots" without so many care mistakes.
 And care mistakes are a big deal: get it right, that Koromon becomes a legendary world-saving Wargreymon.
-Get it wrong, you get a Machinedramon willing to *use* that city-flattening destructive power, or worse.
+Get it wrong, you get a Machinedramon willing to *use* that city-flattening destructive power, or worse (managing to somehow kill the mon is, in a needs-of-the-many sort of way, one of the better possible results).
 
 This connection flows another way: digimon protect their tamers even if that protection couldn't have any physical basis.
 If you have a digimon, you gain the toughness needed for feats like riding your Greymon into battle, or even *lifting* Zudomon's hammer much less hammering things with it.
@@ -76,7 +76,7 @@ There's an upper limit on how autonomous an artifact can be before it becomes a 
 Basically a mon jacks in and the relevant functions are borrowed by the artifact.
 This process works even if the mon has a tamer, or is a spirit tamer in digimon form.
 
-## Digivices
+### Digivices
 Facilitates the bond between tamer and digimon.
 Humans *can* make these, but most are created by the Gennais.
 Quite different processes are employed in each case, but the result is largely similar.
@@ -89,6 +89,14 @@ Probably this functionality is invoked by a Gennai somehow.
 
 Calculations show that it would not be hard to design a digivice that can contain the linked digimon, v-pet style.
 It is also verified to be extremely hard to separate a tamer or mon from the digivice and keep them separate; quite aside from this being less effective than one may like, somehow they find a way to retrieve it.
+
+### Crests/Tags
+Item representing an emotion or mental quality, that can give a boost to a digimon and its tamer (usually this translates to easier digivolution).
+Strictly speaking it's the Crest that does this, the Tag is just an adapter to make it easier to hold both physically and mentally.
+Few examples exist, though the traits they represent form groups that pop up in themeing all over the place, like some cosmic force likes reusing the names for any set of the appropriate number of things.
+
+Much to the vexation of the Gennais, and indeed the Data Squad, the mental qualities are not actually required to be positive, although it is rare to see any mention of this fact let alone an actual Crest Of, say, Rage or Hatred.
+The knowledge that these *can* exist, let alone the possibility that they *have* to for reasons of cosmic balance, is not something either group wants to be known in case anyone gets... ideas.
 
 ## Livestock
 It's not *just* a mon-eat-mon world out there; there are simple plants and animals that produce food and other materials, but which also don't rise to the level of being even a feral digimon.
