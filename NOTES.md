@@ -61,3 +61,42 @@ Spirits are sort of fossils of digimon. Lacking fundamental parts (think "event 
 This requires mental compatibility, like canon Agunimon really needs to be used by... well, someone as goggleboy-y as Takuya is.
 There's a very basic harness in a spirit's shrine, but it's not really enough for the spirit to *do* much.
 Compatibility comes in degrees, the more you have it the better spirit evolution works for you.
+
+One of the ways you can get into the digiworld is by travelling, and taking an unusual diversion.
+In particular, you might find yourself with a special train ticket that... well, depending on where you use it the station might grow an extra platform, or just going through the ticket barrier takes you to a different place.
+At that extra platform is, of course, a trailmon or several, or in some cases the gear to spirit evolve *into* a trailmon.
+Travel from there is straightforward.
+
+But train stations are inherently liminal, and liminality can weaken the walls of reality, so sometimes things cross over without such formality.
+Vendors selling tickets.
+Suspicious beings selling things that the authorities, any authorities, would frown on.
+Yourself.
+This can get pretty dramatic, at the shadier places and times an uncomfortable-looking and chained digimon won't raise eyebrows.
+Possibly you bought that mon from a shady dude who sold you what looked like a 2000s cellphone and the "pet" came part of the package.
+At other times all you'll notice is that the merchandise in the shops is different.
+Especially if you were in somewhere like St Pancras that has an outright expy in the digiworld.
+
+Trailmon lines go to some weird places.
+There's at least one station in the middle of inky black primordial void, and it's not a terminus.
+There's places where the rail "prop" and the lineness don't even pretend to line up.
+One station is configured to resemble a (pre bogie-exchange) gauge change station, even though there's no visible reason.
+
+Some of these are required by mathematical theorems underpinning the trailmon network.  
+Some are _not_.
+
+Other places... there's very few automobiles.
+Most transport is trailmon, artificial trains, riding another mon, or digivolving into something suitable.
+Yes, you can hire a private railcar or an entire train.
+There's rumours of some kid who got a trailmon partner and found a way for it to rez momentary rails _wherever it likes_
+(he has to control this manually, trailmon are surprisingly resistant to the concept of corners).
+
+Applimon are just another sort of digimon based on different data.
+
+There are non-digimon lifeforms, they're pretty low on the scale of animacy (even feral digimon are smarter).
+Besides plants, there's some livestock, although whether any given food item comes from plant or animal or natural resource node is unconnected with what it appears to be.
+Strict vegans may as well give up, thanks to grass-type mons and meat plants.
+
+Also low on the scale of animacy are artifacts: "magic items" that don't have enough of the relevant complexity to become digimon, but too much to just be inert objects.
+You might need to attune to one to use it, or it might be a bit fiddly to use because it's got proto-preferences.
+Really complex automation winds up either being effectively a mon or being based on a mon jacking in so that the mon's event loop and such can be borrowed.
+This *is* compatible with being a tamer.
