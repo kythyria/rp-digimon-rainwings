@@ -157,13 +157,16 @@ One can either play as a human with a partner digimon, a regular human with spir
 
 (If human, do you wield a digivice that connects you to a spirit digimon? or a digivice that connects with your digimon? Any preferred model?)
 
+>You want to hear a tale? Well then...
+(Backtory)
+
 
 -- The infallible companion --
 
 
 >This is my partner!(Optional)
 
-(If human, complete this block. If digimon, erase it. Treat both your partner and your spirit form equally for the filling of this section)
+(If human, complete this block. If digimon, fill as fit. Treat both your partner and your spirit form equally for the filling of this section)
 
 >Partner
 
