@@ -1,11 +1,26 @@
 ---
 title: "Digimon: Project Rainwings"
 ---
+# Digimon
+The main inhabitants of the digital world.
+While the digiworld has a much longer history than one might think, only the current major version is relevant, in which digimon are data-based lifeforms.
+That is, like the digiworld itself, their coming into existence is ultimately around data in the human world.
 
-# Humans and Digimon
+Because any data which can exist (and if you're thinking, the Digimon Reference Book says *code* rather than data, remember that only tiny microcontrollers are harvard-architecture) that isn't purely random has *some* purpose to it, digimon have at least traces of that purpose to them, at least when freshly created.
+Some digimon keep this purpose, and thus you have things like burgamon whose existence revolves around fast food.
+Metal Empire digimon are the most likely to do this, being overtly machines.
 
 # Non-digimon
-Besides, digimon, humans, and whatever the Gennais are, there are several other kinds of thing that aren't just inanimate objects.
+Besides digimon and humans, there are several other kinds of thing that aren't just inanimate objects.
+
+## Gennais
+These somewhat mysterious entities generally look like humans in some sort of monastic outfit.
+While they don't discuss their origins they do freely admit their job is to look after the digital world, balance order and chaos, and so forth.
+They don't seem to directly be agents of Yggdrasil, not the way the Royal Knights are.
+
+It is the Gennais that are responsible for the creation of most digivices and summoning humans to become Chosen Ones.
+They appear now and then to give people missions or help with an existing mission that's within their purview.
+Mostly, however, the Gennais work behind the scenes giving things little nudges and maintaining internal mechanisms of the digiworld.
 
 ## Spirits
 Spirits are sort of fossils of digimon. Lacking fundamental parts (think "event loop", for instance), they are inert objects unless attached to a human or digimon.
