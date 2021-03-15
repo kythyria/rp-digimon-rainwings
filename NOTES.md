@@ -133,7 +133,7 @@ One can either play as a human with a partner digimon, a regular human with spir
 
 (Are you a human or a digimon?)
 
->And I my .mon filename is
+>And my .mon filename is
 
 (If Digimon, what type are you? Erase if human)
 
