@@ -37,6 +37,19 @@ Get it wrong, you get a Machinedramon willing to *use* that city-flattening dest
 This connection flows another way: digimon protect their tamers even if that protection couldn't have any physical basis.
 If you have a digimon, you gain the toughness needed for feats like riding your Greymon into battle, or even *lifting* Zudomon's hammer much less hammering things with it.
 
+## Spirit tamers
+Some humans don't match up with a digimon, but with a Spirit (despite the name, these are physical objects), perhaps finding it in a shrine.
+
+Spirit taming is actually more demanding in some respects than having a digimon partner: it's almost the same mechanism as jogress but almost all of the things that make the result animate come from the tamer.
+As a result, the tamer is as wiped out afterwards as the mon would be.
+This is all because Spirits, being "fossilised" digimon, lack fundamental components of the "event loop" variety, but it's no harder to bodge a human's to fit than it is another digimon's.
+
+It's also incompatible with having a partner, the same "ports" are occupied by the spirit, and it's impossible to create a viable multiplexer that accomodates both.
+If you try to force the issue, Bad Things happen.
+Rampages, unconsciousness, unintentional transformation, the whole nine yards.
+
+The effect of mental compatibility here extends to how well spirit evolution works: none at all, and you get none at all, while Takuya, being a first-rate goggleboy, could use Agunimon pretty well.
+
 # Non-digimon
 Besides digimon and humans, there are several other kinds of thing that aren't just inanimate objects.
 
@@ -62,6 +75,20 @@ There's an upper limit on how autonomous an artifact can be before it becomes a 
 
 Basically a mon jacks in and the relevant functions are borrowed by the artifact.
 This process works even if the mon has a tamer, or is a spirit tamer in digimon form.
+
+## Digivices
+Facilitates the bond between tamer and digimon.
+Humans *can* make these, but most are created by the Gennais.
+Quite different processes are employed in each case, but the result is largely similar.
+
+The designers of digivices have heard of convergence and dismissed the concept: digivices are quite specialised, so it's not worth the R&D to make them be general-purpose handheld computers.
+It's more effective to give the digivice a way to interface with one, such as bluetooth.
+
+That said, sometimes a digivice *can* detect the distance and direction to a significant object, or report on the time until some significant event, but this can hardly be relied upon.
+Probably this functionality is invoked by a Gennai somehow.
+
+Calculations show that it would not be hard to design a digivice that can contain the linked digimon, v-pet style.
+It is also verified to be extremely hard to separate a tamer or mon from the digivice and keep them separate; quite aside from this being less effective than one may like, somehow they find a way to retrieve it.
 
 ## Livestock
 It's not *just* a mon-eat-mon world out there; there are simple plants and animals that produce food and other materials, but which also don't rise to the level of being even a feral digimon.

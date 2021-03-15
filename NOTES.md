@@ -10,8 +10,6 @@ Part of criteria for "promising" is jumping at the call.
 
 If there's more openness between the worlds rather than just chosen heroes/villains crossing over, the Gennais are very much the mon counterpart of the Data Squad. Even if they aren't, really: the Gennais cast the "Summon Everyman Hero"... but the DS cast "Summon Every*mon* Hero". In the more open world, Gennais are responsible for humans that end up in the digiworld, and the DS vice versa.
 
-Digivices aren't converged with smartphones, they just do the tamer thing.
-
 > S: So if a human wants to go to the digital world, they don't go as tamer but rather AS the "digimon" via the spirits?
 
 Main character types
@@ -26,14 +24,12 @@ Also possible:
 
 Tamers are inherently matrix or spirit tamers: Being a tamer at all, having a digivice, connects you to the mon and that's the first stage of that evolution type. Hence why in Colon Joe can use Zudomon's hammer. But this has another side: digimon grow *differently* when they have a tamer.
 
-Ordinarily they were born from data and generally either stay as quite dedicated to a function, or become feral, the wild fauna or random encounters. Some reach a somewhat humanlike mindset and that gets you your villages and stuff. But with a human wrangling them, that human's interactions tend to add new code. In short, digimon are *very* impressionable, and it changes their very being.
+But with a human wrangling them, that human's interactions tend to add new code. In short, digimon are *very* impressionable, and it changes their very being.
 
 > S: I mean there's a bunch of mons that are basically feral, now imagine human interaction as adding "code" to said program with the human showing them kindness and love, or hatred and pain, and the mon is basically a sponge that expands their range of utilities not necessarily power-wise, but mental wise. That's why care mistakes are live-or-death vital to a digimon, you are basically imprinting them with code as an user.  
 > ...You know, perhaps that's another reason human children are chosen rather than adults.  
 > They kind of both grow together, and it's easier for children to think of digimon as their "beloved mascots/friends"
 > Ergo, reducing any occurrence of care mistakes that could turn the legendary Greymon supposed to save the world into a Machinedramon with the power of G O D
-
-The same link that lets this work also makes humans very tough: The mon protects them even if that couldn't have a physical basis (hence why colon Tai can stay on Greymon in fights).
 
 There's an obvious source of villains in this, a manipulative mon glomming on to a human to get the boost (bit of a gamble, if your human turns out to be virtuous rather than corruptible you run the risk of becoming a goody-two-shoes yourself) and then going all you have outlived your usefulness. The matrix of what's a care mistake is different for such a mon, too. Possibly these sorts of mons try to organise it based on one party "hiring" the other.
 
@@ -51,16 +47,6 @@ Murder, extortion, and robbery and that's *before* they get digimon.
 DS want to maintain the masquerade pretty hard, they really don't want any more criminals aware of digimon (or the public really, PR headache).
 
 Chosen Children or Digimon (need a name for those) thus have to keep under the radar themselves when in the human world.
-
-You can't be a spirit tamer AND a regular tamer at once. They both compete for the same resources and Bad Things happen if you run out of those.
-Rampages, random unconsciousness, the full monty.
-Especially since spirit evolution is more demanding: "taming" a spirit requires that you fill in the many components missing from the spirit with your own.
-Doing this is inherently jogress-like, which is why it doesn't spawn a mon but turn you into one.
-
-Spirits are sort of fossils of digimon. Lacking fundamental parts (think "event loop", for instance), they are inert objects unless attached to a human or digimon.
-This requires mental compatibility, like canon Agunimon really needs to be used by... well, someone as goggleboy-y as Takuya is.
-There's a very basic harness in a spirit's shrine, but it's not really enough for the spirit to *do* much.
-Compatibility comes in degrees, the more you have it the better spirit evolution works for you.
 
 One of the ways you can get into the digiworld is by travelling, and taking an unusual diversion.
 In particular, you might find yourself with a special train ticket that... well, depending on where you use it the station might grow an extra platform, or just going through the ticket barrier takes you to a different place.
