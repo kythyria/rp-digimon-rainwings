@@ -76,18 +76,6 @@ Possibly you bought that mon from a shady dude who sold you what looked like a 2
 At other times all you'll notice is that the merchandise in the shops is different.
 Especially if you were in somewhere like St Pancras that has an outright expy in the digiworld.
 
-Trailmon lines go to some weird places.
-There's at least one station in the middle of inky black primordial void, and it's not a terminus.
-There's places where the rail "prop" and the lineness don't even pretend to line up.
-One station is configured to resemble a (pre bogie-exchange) gauge change station, even though there's no visible reason.
-
-Some of these are required by mathematical theorems underpinning the trailmon network.  
-Some are _not_.
-
-Other places... there's very few automobiles.
-Most transport is trailmon, artificial trains, riding another mon, or digivolving into something suitable.
-Yes, you can hire a private railcar or an entire train.
-There's rumours of some kid who got a trailmon partner and found a way for it to rez momentary rails _wherever it likes_
-(he has to control this manually, trailmon are surprisingly resistant to the concept of corners).
-
 Applimon are just another sort of digimon based on different data.
+
+One can either play as a human with a partner digimon, a regular human with spirit jogressing or a lonesome digimon that acts as a self-employed adventurer.

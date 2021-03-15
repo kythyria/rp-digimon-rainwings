@@ -7,8 +7,35 @@ While the digiworld has a much longer history than one might think, only the cur
 That is, like the digiworld itself, their coming into existence is ultimately around data in the human world.
 
 Because any data which can exist (and if you're thinking, the Digimon Reference Book says *code* rather than data, remember that only tiny microcontrollers are harvard-architecture) that isn't purely random has *some* purpose to it, digimon have at least traces of that purpose to them, at least when freshly created.
-Some digimon keep this purpose, and thus you have things like burgamon whose existence revolves around fast food.
+Some digimon keep this purpose, and thus you have things like burgamon whose entire existence revolves around fast food.
 Metal Empire digimon are the most likely to do this, being overtly machines.
+
+The second common thing for digimon to do is to gradually become feral, the fauna and random encounters of the digiworld.
+How smart these are varies, as does how obvious it is that there's something between the ears; it varies with species as well as the individual, such as Seadramon is almost always a fairly bestial brawn-over-brains sea serpent.
+
+Thirdly, a digimon may adopt a mentality imitating a more human one, resulting in villages and towns and so forth, not to mention adventurers.
+
+But there is a fourth possibility, namely to have a tamer.
+
+# Tamers
+Some humans are, as it were, on the same wavelength as a digimon.
+Should they ever *meet* that mon, it's quite likely that the pair will hit it off.
+With a digivice around, the "bond" becomes more than psychological, and mon and human become connected to a greater degree.
+At this point, you have a tamer.
+
+At this point you *also* have the first stage of matrix or spirit evolution.
+
+In any case, one of the signature properties of a tamer is that human emotion and psychology interacts with digimon to facilitate the latter's growth, adding new code based to an often considerable degree on on the thoughts, memories, and emotions in question.
+This works even for feral or pure functional digimon, if anything it works *especially* well for them, for the major expansion the mon experiences is *mental*.
+Big and strong is just a digimon thing, it's the brain parts that benefit most from a tamer, which admittedly does feed back into strength.
+
+Parenthetically, this is why the Gennais prefer to tap children as tamers.
+Not only are the kids more likely to jump at the call to adventure, but they're more likely to have a mindset that lets them grow along with their friends/"mascots" without so many care mistakes.
+And care mistakes are a big deal: get it right, that Koromon becomes a legendary world-saving Wargreymon.
+Get it wrong, you get a Machinedramon willing to *use* that city-flattening destructive power, or worse.
+
+This connection flows another way: digimon protect their tamers even if that protection couldn't have any physical basis.
+If you have a digimon, you gain the toughness needed for feats like riding your Greymon into battle, or even *lifting* Zudomon's hammer much less hammering things with it.
 
 # Non-digimon
 Besides digimon and humans, there are several other kinds of thing that aren't just inanimate objects.
