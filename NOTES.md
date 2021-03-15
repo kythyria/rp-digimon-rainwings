@@ -51,3 +51,13 @@ Murder, extortion, and robbery and that's *before* they get digimon.
 DS want to maintain the masquerade pretty hard, they really don't want any more criminals aware of digimon (or the public really, PR headache).
 
 Chosen Children or Digimon (need a name for those) thus have to keep under the radar themselves when in the human world.
+
+You can't be a spirit tamer AND a regular tamer at once. They both compete for the same resources and Bad Things happen if you run out of those.
+Rampages, random unconsciousness, the full monty.
+Especially since spirit evolution is more demanding: "taming" a spirit requires that you fill in the many components missing from the spirit with your own.
+Doing this is inherently jogress-like, which is why it doesn't spawn a mon but turn you into one.
+
+Spirits are sort of fossils of digimon. Lacking fundamental parts (think "event loop", for instance), they are inert objects unless attached to a human or digimon.
+This requires mental compatibility, like canon Agunimon really needs to be used by... well, someone as goggleboy-y as Takuya is.
+There's a very basic harness in a spirit's shrine, but it's not really enough for the spirit to *do* much.
+Compatibility comes in degrees, the more you have it the better spirit evolution works for you.
