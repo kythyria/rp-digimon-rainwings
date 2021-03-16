@@ -50,6 +50,17 @@ Rampages, unconsciousness, unintentional transformation, the whole nine yards.
 
 The effect of mental compatibility here extends to how well spirit evolution works: none at all, and you get none at all, while Takuya, being a first-rate goggleboy, could use Agunimon pretty well.
 
+## Becoming a tamer
+All that's really required is that human and mon encounter one another for long enough to start bonding, and then a digivice turn up to facilitate the full connection forming.
+In practice this means the tamer gets given a digivice by someone who has access to a maker of such.
+
+Most commonly, a Gennai will arrange for a promising human to encounter a suitable digimon.
+Part of the definition of "promising" is jumping at the call to adventure.
+Quite aside of it being quite an expedition to get between the worlds, where tamers are, some sort of adventure is likely to follow.
+That's why the Gennais have their program of identifying potential tamers, invariably middle school kids or so for high potential and lower chance of care mistakes.
+
+The various Data Squad branches also have their recruitment operations, though they have somewhat different criteria, young adults or outright adults who are trained before being matched with a digimon (or assigned to some other role).
+
 # Non-digimon
 Besides digimon and humans, there are several other kinds of thing that aren't just inanimate objects.
 
