@@ -63,11 +63,15 @@ The various Data Squad branches also have their recruitment operations, though t
 
 # Non-digimon
 Besides digimon and humans, there are several other kinds of thing that aren't just inanimate objects.
+Truly inert inanimate objects form the bulk of the digiworld, they work pretty much how you'd expect. Food is edible, trees have leaves, the ground is solid, all that. But there are other things which aren't so inert but don't qualify as being a digimon, sometimes for purely technical reasons.
+
+In particular, digimon are able to digivolve, by definition, and have quite a lot of capacity for intelligence even if it's going unused.
 
 ## Gennais
 These somewhat mysterious entities generally look like humans in some sort of monastic outfit.
 While they don't discuss their origins they do freely admit their job is to look after the digital world, balance order and chaos, and so forth.
 They don't seem to directly be agents of Yggdrasil, not the way the Royal Knights are.
+Rumour has it that they might be based on a digitised human, but all that's definitely known is, they can't digivolve and thus aren't digimon.
 
 It is the Gennais that are responsible for the creation of most digivices and summoning humans to become Chosen Ones.
 They appear now and then to give people missions or help with an existing mission that's within their purview.
@@ -91,6 +95,7 @@ This process works even if the mon has a tamer, or is a spirit tamer in digimon 
 Facilitates the bond between tamer and digimon.
 Humans *can* make these, but most are created by the Gennais.
 Quite different processes are employed in each case, but the result is largely similar.
+Human-made digivices aren't as efficient, though, which is partly why the Data Squad tamers have to be more highly trained; they don't make influencing the mon, or digivolving from the human's impetus, as easy as the ones the Chosen have.
 
 The designers of digivices have heard of convergence and dismissed the concept: digivices are quite specialised, so it's not worth the R&D to make them be general-purpose handheld computers.
 It's more effective to give the digivice a way to interface with one, such as bluetooth.
@@ -111,6 +116,8 @@ The knowledge that these *can* exist, let alone the possibility that they *have*
 
 ## Livestock
 It's not *just* a mon-eat-mon world out there; there are simple plants and animals that produce food and other materials, but which also don't rise to the level of being even a feral digimon.
+Livestock has next to no intelligence, and it just sort of turns up in small amounts even when nobody's farming.
+
 But if you were expecting there to not be meat plants or salad chickens, you were mistaken, both exist, as do soup mines, rock farms, and refrigerators just sort of standing around in the middle of nowhere inexplicably full of fresh eggs.
 
 # Digital World Geography
@@ -143,3 +150,34 @@ The digiworld considers euclidean geometry to be for boring people.
 The aforementioned desert, for instance, has a canal across it that is quite a bit shorter if you're floating on it.
 Indoor spaces have a disconcerting tendency to straight up be in a different worldspace, so subway lines have very different lengths and routes to what you'd expect from station placement.
 Heck, there's a forest with a high-rise tree where climbing a ladder into the permanent cloud at the top takes you to someplace quite different (but beware, where it comes out changes without warning).
+
+## Wildlands
+Not all of the digital world is easygoing.
+For various reasons, including the distribution of naturally occurring livestock and other resources, not everywhere is a mix of remote but easily settleable hinterland and bustling towns.
+
+Some is dead, inhabited by nothing at all save ruins or the most intentionally remote installations.
+
+Wildlands are not this.
+Wildlands are places where the terrain itself is outright harsh, and the inhabitants harsher.
+Many an unprepared digimon, and even human, has perished in the wildlands, victim of the dangerous environment or even their own psyche.
+
+Adventurers who are already toughened up mentally as well as physically can survive pretty well, if they don't mind their own teeth and claws getting a red tinge.
+
+### Wild Jungles
+Beauty that can surpass even what one can witness back in the human world, hiding terrifying creatures that are more than willing to fight to the death for the smallest scraps of prey.
+The creatures found in areas of thick foliage where no civilization is found are usually in the deep end of feralism, sometimes not even the best Data Squad tamer can bring them to their side.
+Even one who succeeds would find they have to do nearly all the thinking for their mon, training it to follow commands and to blunt the sharp corners of instinct into something useful, unlike the initiative-taking partners most tamers have.
+
+In these jungles, it is a digimon-eats-digimon world, where the strong rule and the weak perish, becoming substenance for the winner.
+In a more grotesque display of animalistic behavior, some digimon outright tear off parts of their prey in order to fasten the rate by which a digimon decomposes into smaller bits, which can be quite graphic for those unprepared.
+However, there exist rather primitive villages composed of digimon that are barely conscious, and while they may be able to communicate discretion is still advised.
+
+### Wild Deserts
+When one thinks of deserts, death, decay and drought are usually what comes to mind, yet the digital version of such places couldn’t be far from the truth.
+In such extreme climates, the hunt is as dangerous as anywhere else, digimon and tamers alike venturing in this sea of sand in order to fish for creatures that swim through the scorching desert.
+
+Small oases can be artificially created, settlements exist where richness and abundance seemingly contradict the “death” of their surroundings, where nothing should ever grow.
+Thus, being lost in the desert might not be a death sentence, as long as you don’t encounter things as equally lucky as you, if not a bit more.
+There are even some weird occurrences when, in the middle of the desert, one can find things like fridges or other electro domestics lying around with seemingly no way of ever reaching that place, and definitely not being powered up by anything, yet functioning as if they were.
+
+So salvation might come to the straggler, in the form of a cold one-or several ones, well, as long as it is not something that’s been deliberately put there. It is said that there’s an underground channel, a collection of tunnels dug by digimon that usually lead to either someplace where there’s food or even to civilization. Be careful, however, as these digimon do not seek those places to do trade exactly, and you might end up having to fend off against giant beasts that lurk in these dark tunnels.
