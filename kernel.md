@@ -114,8 +114,14 @@ Few examples exist, though the traits they represent form groups that pop up in 
 Much to the vexation of the Gennais, and indeed the Data Squad, the mental qualities are not actually required to be positive, although it is rare to see any mention of this fact let alone an actual Crest Of, say, Rage or Hatred.
 The knowledge that these *can* exist, let alone the possibility that they *have* to for reasons of cosmic balance, is not something either group wants to be known in case anyone gets... ideas.
 
-## Livestock
-It's not *just* a mon-eat-mon world out there; there are simple plants and animals that produce food and other materials, but which also don't rise to the level of being even a feral digimon.
-Livestock has next to no intelligence, and it just sort of turns up in small amounts even when nobody's farming.
+## Livestock/Fodder
+Now with the amount of carnivorous digimon and the fact that there’s an actual, real preference for meat discussed quite frequently by beasts thrice your size, you’d think you were on the menu.
+Apparently the laws of biology and physics are ignored and as if by some kind of joke meat DOES grow from the earth, their taste being actually quite richer from the ones back at your place.
+And while buying and selling them is a thing, the farmers usually are friendly enough to give you a few chunks of meat for you to share with your digimon.
+After all, they claim to have been helped by quite a few so-called gentlemen back in the past, although what that word means is lost to them.
+The older of the bunch will probably ask you if gentleman is just an evolution after human, much to the humor of most.
 
-But if you were expecting there to not be meat plants or salad chickens, you were mistaken, both exist, as do soup mines, rock farms, and refrigerators just sort of standing around in the middle of nowhere inexplicably full of fresh eggs.
+Because the same cosmic principles that are amused by the inclusion of an entire seed catalogue of meat plants also like symmetry, there are animals, not rising to the level of intellect, firepower, or other abilities of even the most feral digimon, which grow fruit, leaves, and other edible plant matter. as part of themselves.
+These are farmed as much as regular plants are, although it's more ranching than anything a human farmer would do with grain or the like. 
+
+There's also simple plants that verge on being part of the scenery, but are distinguished by their edibility... at least if you're the right kind of digimon.
