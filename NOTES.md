@@ -95,3 +95,7 @@ There exists other places that specifically exchange money for services, but the
 
 -	OC digimon are more than welcome, only thing is don’t make them this OP character that can’t be hit and that automatically kills everything it touches. Nobody wants to play with that dude, absolutely nobody.
 - All questions regarding canoncity, certain digimons being usable, powerlevels and whatnots should be directed to Kythyria Zapdos#0135
+
+
+- If canon specifies there's exactly one of something, players can't claim exclusive right to play it. Either it's off-limits, can be borrowed as an NPC, or there's more than one of it
+
