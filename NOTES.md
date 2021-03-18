@@ -94,3 +94,4 @@ There exists other places that specifically exchange money for services, but the
 -	That being said, while lore-wise each digivice has some uniqueness or specialization of it in the original, and in this roleplay the Data Squad’s digivice is a lesser version of Gennai’s design because of it being reverse engineered by humans, when it comes to actually roleplaying there’s really no intrinsic difference between them other than their model nor any actual benefit from using a VERY specific one. 
 
 -	OC digimon are more than welcome, only thing is don’t make them this OP character that can’t be hit and that automatically kills everything it touches. Nobody wants to play with that dude, absolutely nobody.
+- All questions regarding canoncity, certain digimons being usable, powerlevels and whatnots should be directed to Kythyria Zapdos#0135
