@@ -99,3 +99,10 @@ There exists other places that specifically exchange money for services, but the
 
 - If canon specifies there's exactly one of something, players can't claim exclusive right to play it. Either it's off-limits, can be borrowed as an NPC, or there's more than one of it
 
+---
+
+There are two paths that the trains take you two, both with vastly different biomes: 
+
+Ancient Village : As if you were transported several thousand years back, a town that is more reminiscent of primitive human life than anything, yet its inhabitants are a combination of plant, primate and dragon digimon living and coexisting with one another. Majority of them are rookies with a few Hanumon defending the village. Curators, shamans, hunters and gatherers reunite to cooperate in the long battle against the many danger that living in such a primitive society carries. Beyond their borders there exist ruthless champion digimon roaming the area, the survival of the fittest being the only thing that matters to the giants that loom over the flora.
+
+Sandstorm Village: Temples to goddesses have been erected in this village where the sands reign the domains, merchants trading and selling, thieves and guards battling every day, houses made out or sand and rock decorating the many streets of this rather humble place. However, they have more than enough food and water thanks to the many gifts the desert provides them with: Bellow the sand and beyond their fortified domain exist several sand-welling digimon big enough as to provide sustenance to the villagers, alongside the many fruits and other items one might find in what at first glance appears to be the death of life, yet upon closer inspection, might be as merciful on its gifts-if not more, than most biomes. It is said that randomly, a human might find out of place items upon the sands, between food, electronics and even toys. While digimon can be fortunate enough to find some themselves, it appears humans have a higher chance to encounter something on that mantle of sand if they dig deep enough. 
