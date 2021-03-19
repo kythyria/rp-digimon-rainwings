@@ -30,6 +30,82 @@ The aforementioned desert, for instance, has a canal across it that is quite a b
 Indoor spaces have a disconcerting tendency to straight up be in a different worldspace, so subway lines have very different lengths and routes to what you'd expect from station placement.
 Heck, there's a forest with a high-rise tree where climbing a ladder into the permanent cloud at the top takes you to someplace quite different (but beware, where it comes out changes without warning).
 
+# Biomes
+For lack of a better term, we will call them this.
+There are a handful of these:
+
+## Desert
+Sand, heat, and dryness.
+Clear skies, day and night, and it never really cools. 
+Pteramon despise this biome, fire-themed digimon tend to love it.
+In some deserts, there may be flat, dense, almost gravelly sand with vast patterns formed out of differences in the colour, while others are shifting dunes.
+
+## Forest
+There's a few kinds of these, but you can certainly see the wood here.
+It's in the trees.
+Lots of trees.
+
+The main type is a medium-density deciduous wood: the ground is grassy, and space under the trees filled in with bushes.
+Clearings and watercourses are reasonably common, and the occasional macadamised road (small stones, packed tightly into their own dust).
+
+You can travel by trailmon here, but beware of leaves on the line.
+
+## Grassland
+What you get if you take forest and replace most of the trees with more grass.
+There's a bit less surface water than forest, but not much.
+Towns sprawl their outskirts and farms out into grassland more enthusiastically than other biomes, and herds of grazing digimon and livestock wander.
+
+## Icy
+Trees here are coniferous, if present.
+Regardless of the weather, there's snow on the ground, probably because, much like how deserts never cool, this biome never *thaws*.
+Only a few rivers are open water, everything else is frozen over.
+Architecture here tends to be made out of ice too, and snow-coloured, like the inhabitants, mainly snow or ice themed digimon.
+Meanwhile, the trailmon lines are elevated or else in their own little tunnels made of ice or carved into rocky overhangs.
+
+There's only one thing worse to a trailmon than leaves on the line, and that's the wrong kind of snow.
+
+## Ocean
+What is there to say about the ocean?
+It's big, wet, and full of fish.
+But in the digiworld, it's full of sea monsters as well.
+Get diving gear, a digivolution of the Deep Savers field, or hire a submarimon, because the reefs are gorgeous, and there's a surprising number of shipwrecks.
+
+Shipwrecks. Everything from pirate galleons to entire alien spaceships and everything in between.
+Haunted, stuffed with treasure, or just home to a lot of fish.
+
+There's in-use constructions down here too: tunnels for trailmon (buried or transparent), telegraph cables, pipelines, and even weirder things.
+Huge mystic sigils cast in concrete, gantries supporting arrays of curious transducers, submarimon docks not attached to anything visible, that sort of thing.
+
+## Machine
+There's urban, and then there's *this*.
+It's not just built-up, it's been built up, and dug down, and under the care of Metal Empire mons for so long, or for such grand purpose, that it's one vast industrial facility.
+
+No nature here, save for what weeds grow through the cracks in an abandoned area, just endless metal and concrete, and no respect for ground level, if a machine is tall it might be installed in a pit to make the top easier to reach.
+
+## Sky
+Yes, this is a biome.
+There's a difference between being in the sky and being in a Sky biome though, and it is this: the ground is completely irrelevant.
+In fact, many of the inhabitants may be completely unaware of there being a floor somewhere down there.
+To be fair to them, in some parts, all you can see when you look down is more sky, and in some of *those* parts, the sun might quite happily be down there.
+And violet-tinged.
+
+Here, ground is the top surface of the floating hunks of rock and artificial platforms scattered through an almost improbably vast area of simply *air*.
+And lakes are what happens when you get a lump of water instead of a lump of rock.
+Still, more normal biomes can be found on the bigger hunks.
+
+It's nearly as good a place as ocean to hide stuff, there's so much sky to hide it in.
+You don't even have to hide it as such, just build it away from the populated areas, so your geometrically shaped facility can stick out like a sore thumb.
+
+This is the _one_ biome trailmon lines are rarely found, but you'll find cable cars stretched for miles between platforms and rocks.
+
+## Dark
+This is the only name digimon geographers have been able to agree on for this biome, and at that it might be a quirk of translation.
+The reason is clear, though: it never gets above twilight here, even when you need sunglasses everywhere else.
+The effect is rather dramatic, it's like a cosmic sunshade hovers over the entire biome.
+
+The inhabitants, terrain, and generally everything are a mixed bag, this is where a lot of dark or malice themed digimon live, of course.
+That doesn't mean they *are* malicious; many are actually much nicer if encountered here than elsehwere.
+
 # Wildlands
 Not all of the digital world is easygoing.
 For various reasons, including the distribution of naturally occurring livestock and other resources, not everywhere is a mix of remote but easily settleable hinterland and bustling towns.
