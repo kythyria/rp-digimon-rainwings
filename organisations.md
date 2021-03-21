@@ -31,3 +31,28 @@ Many, however, stay on, perhaps being tried with other possible partners, or jus
 ## Relation to Chosen Ones
 Since the Data Squad have different goals (lots, being more of an international association of more local bodies rather than a unified command) to the Gennais, they rarely actively work together.
 However, when they *do* spot a Chosen whose goals align with the DS, they often offer some degree of assistance.
+
+## Science
+A lot of the neat toys any of the Data Squads have are basically reverse engineered from studies of digimon and digimon-related items.
+To this end, the larger agencies maintain research laboratories to study digimon and so forth.
+Mostly these are hidden from the public by clearly labelling them as government research facilities.
+
+In particular, this is where human-built digivices came from; the Gennai-built ones are built using a process that is at best extremely difficult for humans to replicate.
+Fortunately the basic functionality isn't dependent on using this process, albeit that human technology struggles to achieve specs on a par with Gennai-tech, at least on paper.
+
+This is less important than it sounds, as paper specifications never tell the whole story, not at all.
+In practice for the core functionality that's why anyone has a digivice to begin with, DS digivices function on par with those used by the Chosen.
+Mostly what's missing is ancillary functions and robustness to certain extreme operating scenarios.
+
+While programmes of improvements to this technology continue, the various DS labs now focus more on other areas.
+First is the way the human and digital worlds can get close; the holy grail is generating portals on demand to a known location and spotting digimon in transit before they materialise in the human world.
+At the moment, the state of the art is very expensively teleporting things from the lab to *somewhere* in the digiworld, recovering a beacon-marked object sent via such transit if beacon and portal have run for this time, and spotting digimon soon after materialisation.
+Most DS missions rely on pre-existing "thin areas" where transit can be provoked.
+
+Second is the study of digimon themselves.
+Mostly this is as one might expect for biological research, even if digimon aren't quite biological; a lot of the approaches carry over.
+Studying how digivolution works is unique to mons, though.
+
+There are persistent rumours of breakthroughs that are being hushed up even to DS staff with security clearances, even that there are rogue labs with perfected artificial spirits or even complete digimon.
+There's almost no evidence of this, but one set of rumours hangs together a little *too* well:
+That some of the tamers supposedly fired for doing the work unnecessarily dirtily, were actually reassigned as test subjects for experiments into artificial spirit evolution and while so transformed serve as some of the untamed but DS-aligned digimon that are suspected to do the really dirty work.
