@@ -14,3 +14,5 @@ title: "Rules of Engagement"
 - If canon specifies there's exactly one of something, players can't claim exclusive right to play it. Either it's off-limits, can be borrowed as an NPC, or there's more than one of it
 
 - Yes, most of this is a bit vague, woolly, and admits inconsistent rulings. We know. Ultimately, the decision rests on the admins as to what's OK. You may need to ask an admin about canonicity, power levels, what's usable, and so forth.
+
+- The Royal Knights... they're blessed by Yggdrasil. Just being Omegamon doesn't make you an RK. Gotta be blessed.
