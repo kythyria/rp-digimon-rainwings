@@ -84,19 +84,18 @@ No nature here, save for what weeds grow through the cracks in an abandoned area
 
 ## Sky
 Yes, this is a biome.
-There's a difference between being in the sky and being in a Sky biome though, and it is this: the ground is completely irrelevant.
-In fact, many of the inhabitants may be completely unaware of there being a floor somewhere down there.
-To be fair to them, in some parts, all you can see when you look down is more sky, and in some of *those* parts, the sun might quite happily be down there.
-And violet-tinged.
+There's a difference between being in the sky and being in a Sky biome though, and it is this: the "real" ground is completely irrelevant.
 
-Here, ground is the top surface of the floating hunks of rock and artificial platforms scattered through an almost improbably vast area of simply *air*.
-And lakes are what happens when you get a lump of water instead of a lump of rock.
-Still, more normal biomes can be found on the bigger hunks.
+It's a big sky, big enough you can't even see the ground from the upper reaches, and sparsely occupied by flying digimon.
+At great intervals, however, there *is* something besides digimon: islands (of whichever biome) hovering in midair like they've repealed the law of gravity, and flying installations abandoned by their original builders.
 
-It's nearly as good a place as ocean to hide stuff, there's so much sky to hide it in.
-You don't even have to hide it as such, just build it away from the populated areas, so your geometrically shaped facility can stick out like a sore thumb.
+Some of these are huge castles, overgrown with immense plants and in varying degrees of ruination under that.
+Others are essentially machine or urban biomes as manifested in the sky, built around endoskeletons of immense girders and well-hidden engine pods.
+Also in varying degrees of decay, usually.
 
-This is the _one_ biome trailmon lines are rarely found, but you'll find cable cars stretched for miles between platforms and rocks.
+Some are inhabited by digimon who use them mainly to hold up nests and perches and generally don't see sturdy walkways as necessary.
+Inhabited or not, though, it's not all that unusual to find some ancient machine digimon lurking, usually long-since deactivated, but here and there are ones dormant awaiting some unspecified condition.
+A few are not only still functional but actually operational, maintaining their installations.
 
 ## Dark
 This is the only name digimon geographers have been able to agree on for this biome, and at that it might be a quirk of translation.
@@ -136,3 +135,10 @@ Thus, being lost in the desert might not be a death sentence, as long as you don
 There are even some weird occurrences when, in the middle of the desert, one can find things like fridges or other electro domestics lying around with seemingly no way of ever reaching that place, and definitely not being powered up by anything, yet functioning as if they were.
 
 So salvation might come to the straggler, in the form of a cold one-or several ones, well, as long as it is not something that’s been deliberately put there. It is said that there’s an underground channel, a collection of tunnels dug by digimon that usually lead to either someplace where there’s food or even to civilization. Be careful, however, as these digimon do not seek those places to do trade exactly, and you might end up having to fend off against giant beasts that lurk in these dark tunnels.
+
+## Wild Sky
+It's nearly impossible to tell, but actually most of the Sky *is* wild, it's just not very populated.
+Much of the hazard is thunderstorms and incredible turbulence... and then you get to truly wild installations.
+
+These might be islands which themselves are wildlands, or they might be more purposefully constructed.
+That the latter sort sometimes turns up out of nowhere, relatively close to the ground, is a constant source of work for adventurers, for they might be tame... or might not be.
