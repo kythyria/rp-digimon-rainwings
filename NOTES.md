@@ -113,6 +113,8 @@ Machine Wildlands: Scraps of metal, destroyed buildings, all gathered in a lands
 
 ## Missions and Jobs (Hidden stuff, backburner for missions)
 
+In all cities, there's always a place where people and digimon gather, and where they gather, rumors and "requests" are often heard and even comissioned. Some digimon have made their lives going on missions, on hunts and rescuing others from their problems. Others have worked as hitmen and thieves for the right price. Mostly, these places are bars, clubs and the like where informality is king, but there might be other places that might require your strenght, and that would pay...handsomely for your help.
+
 The Heist: There have been rumors of digimon awaiting for humans at the train station in order to rob them, some have even been robbed their digivice! Luckily, you were not one of them, but we might need someone to go scout for us and aprehend the criminal. 
 
 The Train Robbery: We've got news from the train with destination to (insert random name here), it has been hijacked and the people held ransom, we must do something! You will be carried by an Airdramon and dropped on top of the train!
