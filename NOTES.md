@@ -119,7 +119,7 @@ The Train Robbery: We've got news from the train with destination to (insert ran
 
 The Cave:  There have been strange disappearances as workers working for a mining company dived into a cave to extract minerals, only to never return. We need to rescue them at any cost!
 
-The convoy: A convoy carrying food and medicine has been intercepted by...something! Head to the desert and rescue the drivers. If possible, try to salvage some of the medicine if possible!
+The convoy: A convoy carrying food and medicine has been intercepted by...something! Head to the desert and rescue the drivers. If possible, try to salvage some of the medicine!
 
 Burning Hearts, the last crusade : (This is an evolving  mission. Rookies will be accompanied by Agumon, further evolutions will be accompanied by evolutions of this line) "Agh! Those damn Gabumon think they are better than us!? That living cozy lives and gathering flabber under their coat is dignifying of a digimon!? Help us settle our difference against those nerds!"
 
