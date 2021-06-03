@@ -25,8 +25,8 @@ If _that_ don't work, capital-D Digidestined are summoned to knock some sense in
 Either way, at the end of this the digiworld is mostly just itty bits of rubble floating in the void, and Arcadiamon
 either deletes itself or is defeated thoroughly by the Digidestined.
 
-And then, the stage is set for Apocalymon to initiate the final stages of recovery, clearing away even that so it can restore
-the digiworld from the backups it took shortly after the sun went dark.
+Deleting Arcadiamon clears the way for the digital world to regenerate itself, with Apocalymon replacing the various things
+it stashed earlier in the process, like Primary Village. 
 
 Because they get front-row seats to a lot of this, it tends to stick in the minds of any babies that happen to live through
 the process. Guess where a whole bunch of legends come from, including the ones about capital-D Digidestined?

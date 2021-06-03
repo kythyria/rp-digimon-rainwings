@@ -44,3 +44,9 @@ However, those that venture untrained, without having challenged the gym or with
 Perhaps knowledge imparted to them by the DS, or from their previous tamer, although being asked that often proves foolish as they’ll either ignore it or give a different answer each time.
 
 There exists other places that specifically exchange money for services, but these are to be found by anyone curious enough.
+
+# Sky-hop
+Another possible entry point. For some reason there's a pancake place waaay up in a Sky biome. Maybe birds like pancakes?
+Either way, it's up there, and universally considered neutral territory. Rumour has it one of the rooms is entangled
+with the human world, but that's just a rumour. More confirmed is that the humanoid part of an Apocalymon sometimes eats
+pancakes there.
