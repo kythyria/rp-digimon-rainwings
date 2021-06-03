@@ -112,3 +112,11 @@ A few possible schemes:
 Solar Apocalymon: The sun is actually a sleeping apocalymon, or orbited by one, or something along those lines.
 Regardless, a really really big one, so big that detached arm instances and scaffolding are topographical features.
 Then one day someone pokes one, which wakes up and starts trying to function.
+
+
+The Three arms: Following the destruction of an Arkadimon going mad, attempting to replace the original Apocalymon, three of its arms managed to survive its deletion. These remained a constant in all resets, becoming geographical monuments to the battle of the destined from 01 and the almost destruction of the digital world. 
+- Upper Layer. One of the arms is visible to all digimon, and is the reason why there's so many speculations about its origins, down to an entire religious belief centered around the creature whose arm belongs to. For some unspeakable reason, the Sky-Hop HQ is centered on its very palm, albeit nobody has ever had the nads to remove them from such a holy spot. 
+
+- Earth Layer. Five mountains in the shape of claws are said to be the other hand of the beast, and are surprisingly enough a place of tourism with tons of towns and villages that make their living with said legend. 
+
+- Underground Layer. It is thought that there exists a third arm all the way down to the core of the digital world, albeit such a research if never really conclusive and there's a lot of debate wherever or not it exists on the first place. There are rumors of an expedition team being interested in resolving that mystery, although wherever or not it's successful will depend on the digimon that live deep within the world's core.
