@@ -103,3 +103,12 @@ Burning Hearts, the last crusade : (This is an evolving  mission. Rookies will b
 
 Cold Minds, the last crusade: (This is an evolving  mission. Rookies will be accompanied by Gabumon, further evolutions will be accompanied by evolutions of this line) "Rowdy orange necks, the lot of them! Those illiterates will bother our consciousness no more, we will show them the difference between a civilized digimon and a simpleton that thinks that swinging a tree branch is 'skill'. Aid us in putting an end to this most infuriating rivalry against those meat-for-brains!"
 
+The Love Spot... OF DEATH: What looks like a perfectly inviting romantic getaway spot--apparently digimon do in fact
+have those--is secretly a plan by a vampire/demon digimon to feast on the delicious data of the lovers.
+A few possible schemes:
+    * Museum/mansion that can whisk you away literally as well as metaphorically
+    * Romantic garden with lots of cosy spots... that are actually the maw of some huge carnivorous plant digimon.
+
+Solar Apocalymon: The sun is actually a sleeping apocalymon, or orbited by one, or something along those lines.
+Regardless, a really really big one, so big that detached arm instances and scaffolding are topographical features.
+Then one day someone pokes one, which wakes up and starts trying to function.
