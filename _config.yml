@@ -20,9 +20,9 @@
 
 title: "Digimon: Fractal Chronicles"
 # email: your-email@example.com
-description: ""
+description: "/rp-digimon-rainwings/"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kythyria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: kythyria/rp-fractal-codex
 
 # Build settings
