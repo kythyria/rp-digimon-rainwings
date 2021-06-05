@@ -1,0 +1,4 @@
+{%- assign rootpage = site.html_pages | where: "url","/" | first -%}
+<nav class="sidenav">
+    {% include navtreenode.html page=rootpage %}
+</nav>

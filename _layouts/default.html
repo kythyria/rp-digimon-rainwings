@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+        {% seo %}
+    </head>
+    <body>
+        <header>
+            <h1 id="sitelogo">
+                <a href="{{"/" | relative_url}}">
+                    <img src="{{ '/assets/images/sitelogo.svg' | relative_url }}" width="494" height="85" alt="{{site.title}}">
+                </a>
+            </h1>
+        </header>
+        <article id="content">
+            <header id="pagehead">
+                <h1>{{ page.title }}</h1>
+            </header>
+            {%- capture toc_ws -%}{%- include toc.html html=content ordered=true -%}{%- endcapture -%}
+            {%- assign toc = toc_ws | strip -%}
+            {%- if toc != "" -%}
+                <div id="toc">
+                    {{toc}}
+                </div>
+            {%- endif -%}
+            <div id="pagecontent">
+            {{ content }}
+            </div>
+        </article>
+        {% include sidenav.html %}
+        <footer>
+            <p class="buildid">
+                Revision <a href="{{site.github.repository_url}}/commit/{{site.github.build_revision}}">{{ site.github.build_revision | slice: 0,6 }}</a> | {% github_edit_link "Edit this page" %} | <a href="{{site.github.repository_url}}">Repository</a>
+            </p>
+        </footer>
+    </body>
+</html>

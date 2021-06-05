@@ -1,0 +1,35 @@
+{%- assign pagelist = site.html_pages | sort: "url" -%}
+{%- assign child_pages = "" | split: ',' -%}
+{%- assign my_url_len = include.page.url.size -%}
+{%- assign my_url_components = include.page.url | split: "/" -%}
+{%- assign child_componentcount = include.page.url | split: "/" | size -%}
+{%- if child_componentcount == 0 -%}
+    {%- assign child_componentcount = child_componentcount | plus: 2 -%}
+{%- else -%}
+    {%- assign child_componentcount = child_componentcount | plus: 1 -%}
+{%- endif -%}
+{%- for page in pagelist -%}
+    {%- assign slice_result = page.url | slice: 0, my_url_len -%}
+    {%- if include.page.url != page.url -%}
+        {%- if slice_result == include.page.url -%}
+            {%- assign this_url_partcount = page.url | split: "/" | size -%}
+            {%- if child_componentcount == this_url_partcount -%}
+                {%- assign child_pages = child_pages | push: page -%}
+            {%- endif -%}
+        {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- if child_pages.size > 0 -%}
+    <ul>
+        {%- for thispage in child_pages -%}
+            {%- if thispage.url == "/404.html" or thispage.url == "/" -%}
+                {%- continue -%}
+            {%- endif -%}
+            <li>
+                {%-capture classname-%}{%- if thispage.url == page.url -%}class="current"{%- endif -%}{%-endcapture-%}
+                <a href="{{ thispage.url | relative_url }}" {{classname}}>{{thispage.title}}</a>
+                {% include navtreenode.html page=thispage %}
+            </li>
+        {%- endfor -%}
+    </ul>
+{%- endif -%}

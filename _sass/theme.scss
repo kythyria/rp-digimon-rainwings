@@ -1,0 +1,159 @@
+@import "normalize";
+@import "rouge-github";
+
+$primary-border: #999;
+$secondary-bg: #f1f1f1;
+$sidebar-width: 16rem;
+$content-width: 44rem;
+$page-width: $sidebar-width + $content-width + $sidebar-width + 1rem + 1rem;
+$content-pad: 1rem;
+
+* { 
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid-template:
+        "header header"   min-content
+        "nav    content"        1fr
+        "footer footer"   min-content;
+    grid-template-columns: $sidebar-width auto;
+    min-height: 100%;
+
+    font-family: "Tahoma";
+    font-size: 11pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Franklin Gothic";
+}
+
+#content {
+    grid-area: content;
+    line-height: 140%;
+}
+
+#pagehead {
+    border-bottom: 1px solid $primary-border;
+    background: /*#D2ECFF #285BC5*/ /*#3366CC*/ #f1ffff;
+    padding: 2ch;
+    
+    h1 {
+        margin: auto;
+        max-width: $content-width - $content-pad*2;
+        text-shadow: 2px 2px #B7D3FC;
+        color: black;
+    }
+}
+
+#pagecontent {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0ch $content-pad 0ch $content-pad;
+    max-width: $content-width;
+}
+
+body > header {
+    grid-area: header;
+    height: 128px;
+
+    background: /*#8CAAE6 #83A6F4 */ #B7D3FC;
+    border-bottom: 1px solid $primary-border;
+
+    display: grid;
+    grid-template: "logo";
+    padding: 0 2rem;
+
+    h1 {
+        grid-area: logo;
+    }
+}
+
+body > nav {
+    background: #F1F1F1;
+    border-right: 1px solid $primary-border;
+    grid-area: nav;
+
+    ul {
+        padding-left: 1em;
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    a, span {
+        border: 1px solid transparent;
+        border-right: none;
+        width: 100%;
+        display: block;
+        padding: 0.25ch;
+        text-decoration: none;
+        
+        &:hover {
+            border-color: $primary-border;
+            background: #ccc;
+        }
+    }
+    
+
+    .current {
+        font-weight: bold;
+    }
+}
+
+#toc {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0ch 2ch 0ch 2ch;
+    max-width: $content-width;
+    
+    ol {
+        counter-reset: toc-entry;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    & > ol {
+        border: 1px solid $primary-border;
+        margin: 1ch 0ch;
+        padding: 1ch;
+        padding-top: 0.5ch;
+        background-color: $secondary-bg;
+        display: table;
+    }
+
+    
+
+    ol ol {
+        padding-left: 2ch;
+    }
+
+    li::before {
+        counter-increment: toc-entry;
+        content: counters(toc-entry, ".") " ";
+    }
+
+    & > ol::before {
+        content: "Contents";
+        font-variant: small-caps;
+        text-align: center;
+    }
+}
+
+body > footer {
+    grid-area: footer;
+    border-top: 1px solid $primary-border;
+    background: #B7D3FC;
+
+    & > p {
+        font-size: 0.8em;
+        margin: 0.5em;
+    }
+}
