@@ -121,4 +121,25 @@ The Three arms: Following the destruction of an Arkadimon going mad, attempting 
 
 - Underground Layer. It is thought that there exists a third arm all the way down to the core of the digital world, albeit such a research if never really conclusive and there's a lot of debate wherever or not it exists on the first place. There are rumors of an expedition team being interested in resolving that mystery, although wherever or not it's successful will depend on the digimon that live deep within the world's core.
 
-Machinedramon City: "Waste not want not" is something the digital world takes seriously, to the point where the undying body of a titan-sized machinedramon, rather than to be wasted by the eons of time and digimon looking for an easy prey, became a city bristling with life and commerce. The hardware of the creature became housing and industry, while its circuitry has been tooled and fixed to redistribute power to the many houses. Due to the nature of a digimon, this creature is being kept alive by its inhabitants, the CPU held in one of the most secure places in the city as to keep their livelihood running at all times. Now how did things end up the way they are? One running theory is that this giant Machinedramon was being built in a massive factory in order to attack other continents for resources, something failed and said massive digimon went berserker, destroying everything (including itself) bare the life support that kept its remains running long enough for it to be found and repurposed into a city.
+---
+
+**Mugen City**: "Waste not want not" is something the digital world takes seriously, to the point where the undying body of a titan-sized machinedramon, rather than to be wasted by the eons of time and digimon looking for an easy prey, became a city bristling with life and commerce. The hardware of the creature became housing and industry, while its circuitry has been tooled and fixed to redistribute power to the many houses. Due to the nature of a digimon, this creature is being kept alive by its inhabitants, the CPU held in one of the most secure places in the city as to keep their livelihood running at all times. Now how did things end up the way they are? One running theory is that this giant Machinedramon was being built in a massive factory in order to attack other continents for resources, something failed and said massive digimon went berserker, destroying everything (including itself) bar the life support that kept its remains running long enough for it to be found and repurposed into a city.
+
+However it happened, the infrastructure of the city is now a bewildering tangle that nearly defies explanation,
+even to digimon engineers who understand the operating principles of individual components.
+This is perhaps no surprise: The only coherent design notes covering the entire system in any state were made by the
+original founders, and centuries of modification and expansion have buried the original vision under patchwork extensions,
+jury-rigs, repurposings, emergency repairs, and so forth.
+
+Thus nobody knows the full extent, schematics, or how much of it works, just keep it patched up and assume that the machine
+digimon themeing that shows up around the place is just an aesthetic oddity.
+Probably a good idea to ignore the number of techs that had nervous breakdowns or retired to become tulip farmers.
+It might also be best to ignore the rumours that in places you can hear *words* in the hum of transformers and clicking of relays,
+rumours that sometimes when the lights flicker the perfectly normal modern signs change to say Yggdrasil knows what in
+an ancient script that makes even mechanical eyes water if looked at closely.
+
+And it's *definitely* best not to look too closely at the oldest structures or behind the rusted access panels with the
+sigil of the founders on.
+Even the most experienced engineers with encyclopaedic knowledge of the city's systems hesitate to fiddle with
+some of *those*, even just moving patch pins or turning knobs, not without a reference for which ones will clear the fault.
+Actually using the event taps--an antique method of jacking in--is right out, *nobody* knows what most of those connect to.
