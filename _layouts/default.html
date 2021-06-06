@@ -9,11 +9,7 @@
     </head>
     <body>
         <header>
-            <h1 id="sitelogo">
-                <a href="{{"/" | relative_url}}">
-                    <img src="{{ '/assets/images/sitelogo.svg' | relative_url }}" width="494" height="85" alt="{{site.title}}">
-                </a>
-            </h1>
+            {% include siteheader.html %}
         </header>
         <article id="content">
             <header id="pagehead">

@@ -1,0 +1,23 @@
+<h1 id="sitelogo">
+<a href="{{"/" | relative_url}}">
+<svg id="sitename" height="32" width="512" paint-order="stroke markers fill" stroke-width="2">
+    <style>
+        text {
+            font-family: "Pixel Digivolve";
+            font-style: italic;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+    </style>
+    <defs>
+        <filter id="blur" height="1.5" width="1.5" x="-0.25" y="-0.25" >
+            <feGaussianBlur stdDeviation="0.8" in="sourceAlpha" result="blur"></feGaussianBlur>
+            <feFlood flood-color="#ffffff" result="flood"></feFlood>
+            <feComposite in="flood" in2="blur" operator="in"></feComposite>
+        </filter>
+    </defs>
+    <use xlink:href="#base" stroke-width="4" filter="url(#blur)"></use>
+    <text id="base" x="8" y="30"><tspan style="fill:#f29100;stroke:#000080;">DIGIMON: </tspan><tspan style="fill:#ff6600;;stroke:#772f00">FRACTAL CHRONICLES</tspan></text>
+</svg>
+</a>
+</h1>

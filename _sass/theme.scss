@@ -1,6 +1,18 @@
 @import "normalize";
 @import "rouge-github";
 
+@font-face {
+    font-family: "Pixel Digivolve";
+    font-style: italic;
+    src: url("../fonts/pixeldigivolve-italic.otf");
+  }
+@font-face {
+font-family: "Pixel Digivolve";
+font-style: normal;
+src: url("../fonts/pixeldigivolve-normal.otf");
+}
+  
+
 $primary-border: #999;
 $secondary-bg: #f1f1f1;
 $sidebar-width: 16rem;
@@ -48,6 +60,7 @@ h1, h2, h3, h4, h5, h6 {
         max-width: $content-width - $content-pad*2;
         text-shadow: 2px 2px #B7D3FC;
         color: black;
+        font-family: "Pixel Digivolve";
     }
 }
 
