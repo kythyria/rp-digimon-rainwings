@@ -143,3 +143,13 @@ sigil of the founders on.
 Even the most experienced engineers with encyclopaedic knowledge of the city's systems hesitate to fiddle with
 some of *those*, even just moving patch pins or turning knobs, not without a reference for which ones will clear the fault.
 Actually using the event taps--an antique method of jacking in--is right out, *nobody* knows what most of those connect to.
+
+
+
+
+
+Atlantas City: Deep within the bowels of The Great George Gorges lies a hidden city encapsulated in a bubble, where aquatic digimon call home. Thanks to the extremely variable and elastic form of the train rails and the train digimon itself having some minor flexion on what it appeared at first to be inflexible metal, it is possible to visit this place. The large bubble covering this floating mass protects any and all of its subjects and buildings from damage and predators, albeit they are not shy as to not use weaponry against anything big enough going their way real fast, ergo it is often not recommendable to go without a pass or not using the train. Incredibly enough, it is a suburb where regular digimon can work and, thanks to some special coding, the floor apparently does not give even against the heaviest digimon-Although you'll probably end up knocking a few buildings if you try to go big enough.
+
+Heavenly Arm: It is unknown how or why there's a massive arm floating aimlessly around the digital world, some rumors speak of a battle between the god of war and the god of comraderie fighting with their digimon, the beast of blue ripping an arm from the warrior or valour and throwing it to the air, a symbol of its thriump, while the legendary warrior had to replace its now lost limb with cold, unfeeling metal. Wherever as it may be, the data of the arm is...strange, it is almost impossible to properly analyze, modern techniques only give static. However, due to the sheer size, some digimon had decided to live there, and on the palm a Sky-Hop was erected.
+
+Kyle Mountain: An unforgiving, giant snow mountain said to be surrounded by berserker digimon, a cold environment that creates dispute for resources and an almost relentless desire for bloodlust. Although it is not because of some spell or evil entity that wishes to make that place its own, as was originally thought. In fact, it is because of a fruit called a "Dew fruit" that, those that ingest it without processing it properly, will go into a berserking state, trashing and destroying anything on its path. Due to this, the fruit is sought after as, the drink made out of the fruit is said to boost a digimon's constitution, sharpen their minds and make them ready for action in a yiff! The locals call it the "Spiral Mountain Dew" and it is considered a national treasure.
