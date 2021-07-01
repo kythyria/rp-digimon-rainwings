@@ -1,0 +1,56 @@
+<section class="character-infobox characterbase character">
+    <h1 id="{{ include.name | slugify }}" class="header">{{ include.name }}</h1>
+
+    {% if include.class %}
+    <div class="label char-class">Class</div>
+    <div class="data  char-class">{{ include.class | markdownify }}</div>
+    {% endif %}
+
+    {% if include.default_level %}
+    <div class="label char-defaultlevel">Default level</div>
+    <div class="data  char-defaultlevel">{{ include.default_level | markdownify }}</div>
+    {% endif %}
+
+    {% if include.alignment %}
+    <div class="label char-align">Alignment</div>
+    <div class="data  char-align">{{ include.alignment | markdownify }}</div>
+    {% endif %}
+
+    {% if include.gender %}
+    <div class="label char-gender">Gender</div>
+    <div class="data  char-gender">{{ include.gender | markdownify }}</div>
+    {% endif %}
+
+    {% if include.sexuality %}
+    <div class="label char-sexuality">Sexuality</div>
+    <div class="data  char-sexuality">{{ include.sexuality | markdownify }}</div>
+    {% endif %}
+
+    {% if include.crest %}
+    <div class="label char-crest">Crest/Element</div>
+    <div class="data  char-crest">{{ include.crest | markdownify }}</div>
+    {% endif %}
+
+    {% if include.items %}
+    <div class="label char-items">Items</div>
+    <div class="data  char-items">{{ include.items | markdownify }}</div>
+    {% endif %}
+
+    {% if include.variations %}
+    <div class="label char-variations">Variations</div>
+    <div class="data  char-variations">{{ include.variations | markdownify }}</div>
+    {% endif %}
+
+    {% if page.player %}
+    <div class="label char-crest">Player</div>
+    <div class="data  char-crest">{{ page.player | markdownify }}</div>
+    {% endif %}
+
+    <div class="label char-desc">Description</div>
+    <div class="data  char-desc">
+        {% if include.description_image %}
+        <img src="{{include.description_image}}">
+        {% endif %}
+        {{include.description_text| markdownify }}
+    </div>
+</section>
