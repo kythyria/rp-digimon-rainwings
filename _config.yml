@@ -25,6 +25,11 @@ baseurl: "/rp-digimon-rainwings/" # the subpath of your site, e.g. /blog
 url: "https://kythyria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: kythyria/rp-fractal-codex
 
+collections:
+  characters:
+    output: true
+    player: true
+
 # Build settings
 plugins:
   - jemoji
