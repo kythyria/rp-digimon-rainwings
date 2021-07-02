@@ -14,7 +14,7 @@ If you'd rather submit a pull request, the ones on this site live in the `_chara
 {%- for character in site.characters -%}
 <tr>
     <td>
-        <a href="{{ character.url }}">{{ character.title }}</a>
+        <a href="{{ character.url | relative_url }}">{{ character.title }}</a>
     </td>
     <td>{{character.player}}</td>
 </tr>
