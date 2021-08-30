@@ -1,0 +1,73 @@
+---
+layout: default
+---
+{%- for character in page.characters -%}
+<div class="character-infobox characterbase character">
+    <h1 id="{{ character.name | slugify }}" class="header">{{ character.name }}</h1>
+
+    {%- if character.class -%}
+    <div class="label char-class">Class</div>
+    <div class="data  char-class">{{ character.class | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.default_level -%}
+    <div class="label char-defaultlevel">Default level</div>
+    <div class="data  char-defaultlevel">{{ character.default_level | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.age -%}
+    <div class="label char-age">Age</div>
+    <div class="data  char-age">{{ character.age | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.alignment -%}
+    <div class="label char-align">Alignment</div>
+    <div class="data  char-align">{{ character.alignment | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.gender -%}
+    <div class="label char-gender">Gender</div>
+    <div class="data  char-gender">{{ character.gender | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.sexuality -%}
+    <div class="label char-sexuality">Sexuality</div>
+    <div class="data  char-sexuality">{{ character.sexuality | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.crest -%}
+    <div class="label char-crest">Crest/Element</div>
+    <div class="data  char-crest">{{ character.crest | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.items -%}
+    <div class="label char-items">Items</div>
+    <div class="data  char-items">{{ character.items | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if character.variations -%}
+    <div class="label char-variations">Variations</div>
+    <div class="data  char-variations">{{ character.variations | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if page.player -%}
+    <div class="label char-crest">Player</div>
+    <div class="data  char-crest">{{ page.player | markdownify }}</div>
+    {%- endif -%}
+
+    <div class="label char-desc">Appearance</div>
+    <div class="data  char-desc">
+        {%- if character.appearance_image -%}
+        <img src="{{character.description_image}}">
+        {%- endif -%}
+        {{character.appearance| markdownify }}
+    </div>
+</div>
+{{ character.body | markdownify }}
+{%- if character.evolutions -%}
+<h2>Evolutions</h2>
+{%- for evo in character.evolutions -%}
+{% include evolution2.html evo=evo %}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor -%}

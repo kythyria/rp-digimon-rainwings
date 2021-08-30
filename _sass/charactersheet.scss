@@ -88,6 +88,39 @@
     border-left: 1px solid black;
 }
 
-.character-infobox.evolution > .evo-illust {
+#pagecontent .character-infobox.evolution > .evo-illust {
     grid-column: 1;
+    text-align: center;
+
+    img {
+        width: auto;
+        max-width: 100%;
+    }
+}
+
+#pagecontent .character-infobox.evolution > .data.evo-abilities {
+    border-top: black;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+
+    td {
+        border: 1px solid black;
+    }
+
+    tr:first-child td {
+        border-top: 1px solid black;
+    }
+
+    tr td:last-child {
+        border-right: none
+    }
+
+    tr td:first-child {
+        border-left: none
+    }
+
+    tr:last-child td {
+        border-bottom: none;
+    }
 }

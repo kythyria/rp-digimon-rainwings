@@ -1,0 +1,49 @@
+{%- capture species_link -%}
+ {%- unless include.evo.is_custom_species -%}
+  {%- assign wikimon_page = include.evo.species -%}
+  {%- if include.evo.wikimon_page -%}
+   {%- assign wikimon_page = include.evo.wikimon_page -%}
+  {%- endif -%}
+  <a href="https://wikimon.net/{{wikimon_page}}">{{wikimon_page}}</a>
+ {%- else -%}
+  {{include.evo.species}}
+ {%- endunless -%}
+{%- endcapture -%}
+
+{%- capture box_size -%}{%- if include.evo.level=="In-Training" or include.evo.level=="Baby"-%}small{%- else -%}large{%- endif -%}{%- endcapture -%}
+{%- assign box_size = "large" -%}
+
+<section class="character-infobox evolution {{box_size}}">
+    {% if box_size == "small" %}
+    <div class="label evo-level">{{include.evo.level}}</div>
+    <div class="data evo-species">{{ species_link }}</div>
+    {%- else -%}
+    <div class="label evo-levelspecies">{{include.evo.level}}: {{ species_link }}</div>
+    {%- endif -%}
+    <div class="data evo-illust">
+        {%- if include.evo.image -%}
+        <a href="{{ include.evo.image | relative_url }}">
+            <img src="{{ include.evo.image | relative_url }}">
+        </a>
+        {%- endif -%}
+    </div>
+    <div class="data evo-description">
+        {{ include.evo.description | markdownify }}
+    </div>
+    {%- if include.evo.abilities -%}
+    <div class="label evo-abilities">Abilities</div>
+    <table class="data evo-abilities">
+    {%- for ability in evo.abilities -%}
+        <tr>
+            <td>{{ ability.name }}</td>
+            <td>{{ ability.desc }}</td>
+        </tr>
+    {%- endfor -%}
+    </table>
+    {%- endif -%}
+
+    {%- if include.misc -%}
+    <div class="label evo-misc">Miscellaneous</div>
+    <div class="data evo-misc">{{ include.evo.misc | markdownify }}</div>
+    {%- endif -%}
+</section>

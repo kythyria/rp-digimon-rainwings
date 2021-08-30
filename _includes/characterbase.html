@@ -11,6 +11,11 @@
     <div class="data  char-defaultlevel">{{ include.default_level | markdownify }}</div>
     {% endif %}
 
+    {% if include.age %}
+    <div class="label char-age">Age</div>
+    <div class="data  char-age">{{ include.age | markdownify }}</div>
+    {% endif %}
+
     {% if include.alignment %}
     <div class="label char-align">Alignment</div>
     <div class="data  char-align">{{ include.alignment | markdownify }}</div>
