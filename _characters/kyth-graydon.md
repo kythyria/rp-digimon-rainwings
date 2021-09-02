@@ -134,7 +134,16 @@ characters:
           One of the fastest aquatic digimon. The metal fairing attached to its head is of
           unparalleled hydrodynamic qualities, and bears a serial number from an unknown
           registry. Thanks to improved sensors, it can track its target even at a great range,
-          and anticipate motion so as to strike with unerring position.
+          and anticipate motion so as to strike with unerring precision.
+        abilities:
+          - name: Torpedo Attack
+            desc: Fires a homing torpedo, or uses itself as the torpedo
+
+          - name: Terror Plankton
+            desc: Fires a jet of water laced with abrasive, poisonous, plankton
+          
+          - name: Surf
+            desc: Summons a wave or current to ride on
       
       - level: Mega
         species: Metalseadramon
@@ -150,5 +159,11 @@ characters:
           large laser.
         abilities:
           - name: River of Power
-            desc: IMMA FIRING MY LAZOR! SHOOP DA WOOOOOP!
+            desc: You see that giant laser cannon? Yeah.
+
+          - name: Poseidon Divide
+            desc: Summons a huge wave to flatten/wash away enemies
+          
+          - name: Surf
+            desc: Summons a huge wave for transportation purposes
 ---
