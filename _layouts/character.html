@@ -51,16 +51,16 @@ layout: default
     {%- endif -%}
 
     {%- if page.player -%}
-    <div class="label char-crest">Player</div>
-    <div class="data  char-crest">{{ page.player | markdownify }}</div>
+    <div class="label char-player">Player</div>
+    <div class="data  char-player">{{ page.player | markdownify }}</div>
     {%- endif -%}
 
     <div class="label char-desc">Appearance</div>
     <div class="data  char-desc">
         {%- if character.appearance_image -%}
-        <img src="{{character.description_image}}">
+        <img src="{{character.appearance_image | relative_url}}">
         {%- endif -%}
-        {{character.appearance| markdownify }}
+        {{character.appearance | markdownify }}
     </div>
 </div>
 {{ character.body | markdownify }}
