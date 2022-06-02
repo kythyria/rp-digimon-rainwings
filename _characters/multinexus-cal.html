@@ -1,0 +1,400 @@
+---
+title: "Calraith"
+player: "Kyth Coatlmon"
+---
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calraith</title>
+        <style>
+            * { box-sizing: border-box }
+
+            :root {
+                --box-line: 1px solid black;
+                --box-head-bg: #a7b1bc;
+                --box-label-bg: #e0ebee;
+
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+
+            body {
+                padding: 0.5em;
+            }
+            
+            article {
+                width: 40em;
+                margin: auto;
+            }
+            
+            .boxed {
+                border: var(--box-line);
+                margin-top: 0.5em;
+                margin-bottom: 0.5em;
+            }
+
+            .boxed h1, .boxed h2, .boxed h3:first-of-type {
+                margin: 0;
+                border-bottom: var(--box-line);
+                text-align: center;
+                background: var(--box-head-bg);
+                font-size: 1.5em;
+                padding: 0.1em;
+            }
+
+            .boxed > dl { margin: 0; }
+            .boxed > dl > dt {
+                font-weight: bold;
+                float: left;
+                background: var(--box-label-bg);
+                border-right: var(--box-line);
+                border-bottom: var(--box-line);
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+                padding-top: 0.1em;
+                padding-bottom: 0.25em;
+                margin-right: 0.5em;
+            }
+            .boxed > dl > dd {
+                border-bottom: var(--box-line);
+                margin: 0;
+                padding: 0.5em 0.5em 0.5em 0.5em;
+            }
+            .boxed > dl > dd::first-line {
+                line-height: 110%;
+            }
+            .boxed > dl > dd:last-of-type {
+                border-bottom: none;
+            }
+
+            .boxed > table {
+                border-collapse: collapse;
+                border-style: hidden;
+                width: 100%;
+            }
+            .boxed > table td, .boxed > table th {
+                border: var(--box-line);
+                padding: 0.25em;
+            }
+            .boxed > table th {
+                background: var(--box-label-bg);
+                vertical-align: top;
+            }
+            .boxed > table caption {
+                background: var(--box-head-bg);
+                font-weight: bold;
+                border-bottom: var(--box-line);
+                padding: 0.1em;
+            }
+            td > p:first-child { margin-top: 0; }
+            td > p:last-child { margin-bottom: 0; }
+            .box-label {
+                font-weight: bold;
+                background: var(--box-label-bg);
+            }
+
+            .items .item {
+                border-bottom: var(--box-line);
+            }
+            .items .item:last-child {
+                border-bottom: none;
+            }
+
+            .items .item.important {
+                display: grid;
+                grid-template: "head desc" "img desc" / 30% auto;
+            }
+            .items .item.important h3 {
+                background: var(--box-label-bg);
+                grid-area: head;
+                border-bottom: var(--box-line);
+                border-right: var(--box-line);
+                padding: 0.25em;
+            }
+            .items .item.important > figure {
+                grid-area: img;
+                margin: 0;
+                border-right: var(--box-line);
+            }
+            .items .item.important > figure img {
+                max-width: 100%;
+            }
+            .items .item.important > div {
+                grid-area: desc;
+                padding: 0.25em;
+            }
+
+            .box-label, .box-value, .evolution .description{
+                padding: 0.25em;
+            }
+
+            .evolution {
+                display: grid;
+                grid-template:
+                    "head     head   head       head"
+                    "attlabel attval fieldlabel fieldval"
+                    "illust   desc   desc       desc"
+                    "skills   skills skills     skills"
+                    / 30% auto auto auto;
+            }
+            .evolution.wideimg {
+                grid-template:
+                    "head     head   head       head"
+                    "attlabel attval fieldlabel fieldval"
+                    "illust   illust illust     illust"
+                    "desc     desc   desc       desc"
+                    "skills   skills skills     skills"
+                    / 30% auto auto auto;
+            }
+            .evolution + .evolution {
+                margin-top: 1em;
+            }
+            .evolution > h3 {
+                grid-area: head;
+            }
+            .evolution > .attribute.box-label {
+                grid-area: attlabel;
+                border-right: var(--box-line);
+            }
+            .evolution > .attribute.box-value {
+                grid-area: attval;
+                border-right: var(--box-line);
+            }
+            .evolution > .field.box-label {
+                grid-area: fieldlabel;
+                border-right: var(--box-line);
+            }
+            .evolution > .field.box-value {
+                grid-area: fieldval;
+            }
+            .evolution > .description {
+                grid-area: desc;
+                border-top: var(--box-line);
+                border-bottom: var(--box-line);
+            }
+            .evolution > figure {
+                grid-area: illust;
+                margin: 0;
+                border-top: var(--box-line);
+                border-right: var(--box-line);
+                border-bottom: var(--box-line);
+            }
+            .evolution.wideimg > figure {
+                border-right: none;
+                border-bottom: none;
+                text-align: center;
+            }
+            .evolution > figure img {
+                max-width: 100%;
+                max-height: 25em;
+            }
+            .evolution > table {
+                grid-area: skills;
+            }
+            .evolution > table tr > :first-child {
+                width: 30%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <article>
+            <header class="character boxed">
+                <h1>Calraith Sorrel von Grafune</h1>
+                <figure><img style="width: 20em;" src="{{'assets/images/characters/kyth-calraith-biyo.png' | relative_url}}">
+                <figcaption>Cal studying magic</figcaption></figure>
+            </header>
+            <section class="overview boxed">
+                <h2>Overview</h2>
+                <table>
+                    <tr><th>Origins</th>        <td>Adventure 02</td></tr>
+                    <tr><th>Character Type</th> <td>OC</td></tr>
+                    <tr><th>RP Focus</th>       <td>Summa Drive, Private</td></tr>
+                    <tr><th>Default level</th>  <td>Rookie</td></tr>
+                    <tr><th>Pronouns</th>       <td>Usually &ldquo;she&rdquo;</td></tr>
+                    <tr><th>Aligment</th>       <td>Neutral</td></tr>
+                    <tr><th>Occupation</th>     <td>Aerial photographer, mapmaker, tinkerer.</td></tr>
+                    <tr><th>Unique line</th>    <td>No</td></tr>
+                </table>
+            </section>
+            <section class="personality">
+                <h2>Personality</h2>
+                <p>
+                    A very analytical engineer type; but also a rather dirty fighter. Screw the Queensbury Rules (however those could even work with so many different body shapes on display), find a weak point and fill it with damage from anything handy, such as the scenery. Mostly though, she’s more about not the fighting, but building stuff. Which might be handy in a fight, or it might just be handy. Likes maps. Kind of is the map, some of the time. Despite that engineering tendency, is well aware of the importance of presentation.
+                </p>
+            </section>
+            
+            <section id="backstory">
+                <h2>Backstory</h2>
+                <p>Cal originally studied non-euclidean cartography at Spiral University. This was going well, she was doing a report on buildings whose internal shape is only defined by where the doors in each room are, when she met the particular cadre of boffins that inhabited the Institute For Advanced Thinking. Specifically, the Department For Research Of Mon Potential. Their lab actually made a good case study: it looks perfectly fine until you actually add up the rest of the building.</p>
+                <p>Anyway, the DRMP studies ways to tinker with the internals of digimon, and they needed a few more avian test subjects, so she volunteered. Nothing major at first, but then, having determined most of her probable digivolutions would a) fly and b) be large enough to ride, suggested trying to install their new heads-up display. That is, a device for generating one for other people. Long story short, it worked, and Cal liked it enough (partly thanks to the mundane utility of using it instead of overhead transparencies) that a lifelong tendency was born, namely the tendency to devise and/or install an upgrade rather than get stronger by beating up other digimon.</p>
+                <p>Actually becoming an airdramon wasn’t until after she’d joined the Geographical Society and graduated. Unfortunately for her, this was during an expedition–the RGS has plenty of explorers, and this team wanted a small bird as a kind of messenger pigeon–during which a set of abandoned ruins turned out to be not so ruined, abandoned, or purely architectural as they looked. Specifically, they contained a certain purple-haired megalomaniac, and the Kaiser immediately picked a fight with the entire expedition.</p>
+                <p>This went exactly how you expect when one side has access to dark rings, although they did put up a fight, some managing to flee, some captured, and Cal digivolved, then promptly got beaten up hard by the Kaiser’s existing minions, and ringed. She had to slither back to his base, owing to a cracked exoskull, torn wing membranes and due to the precise combination of interior and exterior damage, slight scarring remains in the form of markings, despite digivolution normally resetting that kind of thing.</p>
+                <p>While recovering–the Kaiser was early enough in his career he couldn’t afford to just abandon injured mons, she thought of some enhancements, first to her HUD module, and to the rest of her, though most of them would not be installed yet. Nonetheless, she found in the Kaiser a kindred spirit regarding upgrades (even if humans aren’t so easy to spruce up), and so spent quite some time as a test subject as well as, eventually, his personal ride.</p>
+                <p>While world domination wasn’t really her cup of tea, she couldn’t complain (literally. It’s hard to set that up in a dark ring, but it is possible. Just not usually worth it.), until the Kaiser was defeated by some bunch of meddling kids. She decided to switch to a less confrontational career after that, and chose couriering and aerial photography. It is this phase of her existence from which the camera harness comes, using upgrades she’d already conceived of to make the cameras into extra eyes, and the rather excessive specs thereof being a result of not wanting to mistake any more ancient installations for merely ancient buildings.</p>
+            </section>
+
+            <section class="items boxed">
+                <h2>Items</h2>
+                <section class="item important">
+                    <h3>Courage Egg</h3>
+                    <figure>
+                        <img src="https://lh5.googleusercontent.com/nhnMEzO4pn_N4dMwp0ULZy_1fDnkqxPnV689eQjyGbj_QQfKndw3P-REiqOun2bXVW_0stgO3wOgChkL8BdNL_FpxmnK4DGuQsYFc_JZp7MfbTHqRcIvqd_wDl2leascRjdIOcye5YXY3jIzrA">
+                    </figure>
+                    <div>A digimental affiliated with Fire-typed digimon and concepts. Allows armour evolution.</div>
+                </section>
+            </section>
+
+            <section id="traits" class="boxed">
+                <h2>Traits</h2>
+                <dl>
+                    <dt>Sensor Rig</dt>
+                    <dd>Cal took care to ensure her Champion (and higher, theoretically) form has an awful lot of (mostly vision) sensors on it, augmenting eyes that are already better than human-baseline thanks to being huge. Very longsighted, but can tell apart identical-looking materials, detect the stuff that in the human world leads to mons spawning, or just see your house from up here and critique your geraniums and choice of newspaper subscription. As a rookie, merely has uncannily good vision and the odd stat here and there.</dd>
+                    <dt>HUD Illusions</dt>
+                    <dd>Can paint a heads-up display (both screen space and AR-esque) more or less directly onto the visual cortex of anyone friendly that’s immediately nearby, without affecting exposure control. An accidental feature can determine everyone’s eye positions and directions too. Default colour scheme is made of impossible colours. Tends to use this instead of whispering, by drawing subtitles.</dd>
+                    <dt>Advanced Radio Subsystem
+                    <dd>The reason for the metal on Cal’s skullmet is because it’s part of the antenna array for this. Can receive or generate a staggering variety of wireless signals, and jam them, though it’s not really meant to do so by brute force.</dd>
+                    <dt>Tinkerer</dt>
+                    <dd>Cal likes making gadgets and equipment, even if it’s bizarre or doesn’t have an obvious purpose.</dd>
+                </dl>
+            </section>
+
+            <h2>Evolutions</h2>
+            <section class="evolution boxed">
+                <h3>Baby: <a href="https://wikimon.net/Puwamon">Puwamon</a></h3>
+
+                <figure>
+                    <img src="{{'assets/images/digimon/Puwamon.jpg' | relative_url}}">
+                </figure>
+                
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">N/A</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">N/A</div>
+
+                <div class="description">Pocket-sized, cute, and fluffy. The only way to reliably bring down a mon with one of these is by using it in a slingshot. It’s got good vision though.</div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Fuwa Feather</th><td>Emits a cloud of vision-obscuring gas.</td></tr>
+                    <tr><th>Zap Feather</th><td>Electrifies its tail feather.</td></tr>
+                </table>
+            </section>
+
+            <section class="evolution boxed">
+                <h3>In-Training: <a href="https://wikimon.net/Poromon">Poromon</a></h3>
+
+                <figure>
+                    <img src="{{'assets/images/digimon/Poromon.jpg' | relative_url}}">
+                </figure>
+                
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">N/A</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">N/A</div>
+
+                <div class="description">A small bird. It’s not angry, though. It can only sustain level flight in ground effect.</div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Pororo Breeze</th><td>Raises a cloud of vision-obscuring sand</td></tr>
+                    <tr><th>Peck</th><td>Headbutts the target beak-first.</td></tr>
+                </table>
+            </section>
+
+            <section class="evolution boxed">
+                <h3>Rookie: <a href="https://wikimon.net/Piyomon">Biyomon</a></h3>
+
+                <figure>
+                    <img style="padding: 0.2em;" src="{{'assets/images/digimon/Piyomon_New_Century.png' | relative_url}}">
+                </figure>
+                
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">Vaccine</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">Wind Guardians</div>
+
+                <div class="description">A pink bird. This particular instance includes a bone skullmet with metal inlay, and frequently a vest with the DWGS logo and space for a message pouch. It also knows better ways to investigate than <em>just</em> pecking, so watch out.</div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Spiral Twister</th><td>Fires a helical ribbon of green mystical flame at the target.</td></tr>
+                    <tr>
+                        <th>Jamming 1</th>
+                        <td>
+                            <p>Temporarily disables electronic and similar items within a short ranged radius, including the user’s own radio stack. Has a substantial (literal!) cooldown before it can be used again.</p>
+                            <p>Affects machine digimon: ones weak relative to the user are stunned, stronger ones can resist it to a degree depending on the relative strength. Hits allies as well. The strength of the Jamming depends on how strong or advanced the technology is.</p>
+                            <p>Omnidirectional, it has a fairly wide range relative to the user, roughly a building’s worth of jamming (albeit it fades out at the fringes).</p>
+                            <p>Digivices are immune.</p>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+
+            <section class="evolution boxed wideimg">
+                <h3>Champion: <a href="https://wikimon.net/Airdramon">Airdramon</a></h3>
+
+                <figure>
+                    <img src="{{'assets/images/digimon/Airdramon.png' | relative_url}}">
+                </figure>
+                
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">Vaccine</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">Wind Guardians</div>
+
+                <div class="description">Despite the anatomically-mandated snarl, Cal is still pretty chill, and considers <em>this</em> to be her base form. Somehow, intricate metallic inlay forms on her exo-skull in this form, and she has a leathery harness (it’s actually a mix of leather, synthetics, and metal) that holds her sensor rig, additional pockets, and a saddle for riders who want to sit on her back rather than her head.</div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Jamming 2</th><td>Like Jamming 1, but now the affected area can be a medium ranged radius and not have such an effect on allies. Plus it can affect stronger targets or ones that are further away. Digivices are still immune.</td></tr>
+                    <tr><th>Wing Cutter</th><td>Form blades out of the air around its wings, and launch them at the enemy.</td></tr>
+                    <tr><th>Nova Blast</th><td>Launch a burst of fire from its mouth.</td></tr>
+                    <tr><th>Needle Hail</th><td>Create a momentary storm of extremely sharp icicles.</td></tr>
+                </table>
+            </section>
+
+            <section class="evolution boxed wideimg">
+                <h3>Perfect: <a href="https://wikimon.net/Wingdramon">Wingdramon</a></h3>
+
+                <figure>
+                    <img style="padding: 0.2em;" src="{{'assets/images/digimon/Wingdramon.png' | relative_url}}">
+                </figure>
+                
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">Vaccine</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">Dragon's Roar</div>
+
+                <div class="description">
+                    <p>Wingdramon looks pretty stock, the most visible difference being the angle of the tusks: forward-down, an unused slot for an acid attack.</p>
+
+                    <p>The other is anisodactyl feet, like a bird of prey. That facilitates grabbing stuff without having to let go of the orbs, something Wingdramon is loathe to do, albeit sometimes only because holding them requires literally no effort at all.</p>
+                    
+                    <p>But wingdramon doesn’t fly by flapping its wings, rather by using them as aerodynamic surfaces in the manner of an aeroplane. Or as arrays of field emitters, to hover with. Serious forward thrust is provided by the massive reactionless thruster in that central pod between the wings.</p>
+                    
+                    <p>Under that pod, bone and keratin protrusions anchor seats and cargo netting that shouldn’t be able to fit there or be nearly so level considering wingdramon’s rest pose.</p>
+                    </div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Needle Hail II</th><td>Fires a large number of huge, sharp, icicles at an area.</td></tr>
+                    <tr><th>Wing Blast</th><td>Uses its speed or wings to twist the air itself into a hard-hitting, nearly solid, projectile.</td></tr>
+                    <tr><th>Sonic Lance</th><td>Fire the spike on its back as a guided missile.</td></tr>
+                    <tr><th>Fury Blast</th><td>Fire bolts of energy from its orbs</td></tr>
+                    <tr><th>Electronic Countermeasures</th><td>Like Jamming II, but it can be aimed. Some targets can be tricked, not just disabled, such as making a targeting system see foes everywhere but where they are.</td></tr>
+                </table>
+            </section>
+        </article>
+    </body>
+</html>
+
+
+
+
+
+
