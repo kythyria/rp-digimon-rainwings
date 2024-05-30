@@ -13,6 +13,7 @@ player: "Kyth Coatlmon"
                 --box-line: 1px solid black;
                 --box-head-bg: #a7b1bc;
                 --box-label-bg: #e0ebee;
+                --box-special-bg: rgb(243, 243, 243);
 
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
@@ -138,18 +139,34 @@ player: "Kyth Coatlmon"
             }
             .evolution.wideimg {
                 grid-template:
-                    "head     head   head       head"
-                    "attlabel attval fieldlabel fieldval"
-                    "illust   illust illust     illust"
-                    "desc     desc   desc       desc"
-                    "skills   skills skills     skills"
-                    / 30% auto auto auto;
+                    "head     head     head       head"
+                    "jogress0 jogress0 jogress1   jogress1"
+                    "attlabel attval   fieldlabel fieldval"
+                    "illust   illust   illust     illust"
+                    "desc     desc     desc       desc"
+                    "skills   skills   skills     skills"
+                    / 20% 30% 20% 30%;
             }
             .evolution + .evolution {
                 margin-top: 1em;
             }
             .evolution > h3 {
                 grid-area: head;
+            }
+            .evolution > .jogresscomponent {
+                padding: 0.25em;
+                text-align: center;
+                background: var(--box-special-bg);
+                font-style: italic;
+            }
+            .evolution > .jogresscomponent[data-idx="0"] {
+                grid-area: jogress0;
+                border-right: var(--box-line);
+                border-bottom: var(--box-line);
+            }
+            .evolution > .jogresscomponent[data-idx="1"] {
+                grid-area: jogress1;
+                border-bottom: var(--box-line);
             }
             .evolution > .attribute.box-label {
                 grid-area: attlabel;
@@ -378,7 +395,7 @@ player: "Kyth Coatlmon"
                     <p>But wingdramon doesn’t fly by flapping its wings, rather by using them as aerodynamic surfaces in the manner of an aeroplane. Or as arrays of field emitters, to hover with. Serious forward thrust is provided by the massive reactionless thruster in that central pod between the wings.</p>
                     
                     <p>Under that pod, bone and keratin protrusions anchor seats and cargo netting that shouldn’t be able to fit there or be nearly so level considering wingdramon’s rest pose.</p>
-                    </div>
+                </div>
 
                 <table>
                     <caption>Digiskills</caption>
@@ -386,7 +403,55 @@ player: "Kyth Coatlmon"
                     <tr><th>Wing Blast</th><td>Uses its speed or wings to twist the air itself into a hard-hitting, nearly solid, projectile.</td></tr>
                     <tr><th>Sonic Lance</th><td>Fire the spike on its back as a guided missile.</td></tr>
                     <tr><th>Fury Blast</th><td>Fire bolts of energy from its orbs</td></tr>
-                    <tr><th>Electronic Countermeasures</th><td>Like Jamming II, but it can be aimed. Some targets can be tricked, not just disabled, such as making a targeting system see foes everywhere but where they are.</td></tr>
+                    <tr><th>Electronic Countermeasures</th><td>Like Jamming II, but it can be aimed. Some targets can be tricked, not just disabled, such as making a targeting system see foes everywhere but where they are. Digivice functions are still immune.</td></tr>
+                </table>
+            </section>
+
+            <section class="evolution boxed wideimg">
+The final form, which might better be called Xendramon, resulting from Calraith’s studies of things that could become additional upgrades and how to integrate them seamlessly. The biggest external change from stock is the ability to change the colour and luminosity of its fur as a raster display.
+
+The biggest internal change is the pocket dimension. With non-combat fiddling, allies can be transported in or out of there, the interior space being flexible into almost any decor provided the total non-duplicated, occupied, volume is small enough, and that there’s no demand to make special items like crests or digimentalium. The default is “bond villain lair”, but ball pits, spatially anomalous loops, training rooms, and just floof, are all possible.
+
+Sacred Fire
+Strike with a ball or blast of mystical, holy, flame.
+Judgement
+Summons a storm of energy bolts from the sky
+Hermit Fog
+Cover an area in a storm of miniscule, sharp, ice shards that gradually abrade anyone inside.
+Electronic Countermeasures
+Like Jamming II, but it can be aimed. Some targets can be tricked, not just disabled, such as making a targeting system see foes everywhere but where they are. This move is inherited from Wingdramon.
+
+
+Dragon Blessing
+Grant an ally enough energy to digivolve to Perfect or Mega, from its own stores. Holydramon is forced to de-digivolve and must rest in order to recover this energy.
+
+            </section>
+
+            <h2>Jogresses</h2>
+            <section class="evolution boxed wideimg">
+                <h3>Ultimate: <a href="https://wikimon.net/Gigaseadramon">Gigaseadramon</a></h3>
+                <figure>
+                    <img style="padding: 0.2em;" src="{{'assets/images/digimon/Gigaseadramon.jpg' | relative_url}}">
+                </figure>
+
+                <div class="jogresscomponent" data-idx="0">Calraith @ Airdramon</div>
+                <div class="jogresscomponent" data-idx="1">Doruga (Karru) @ Dorugamon</div>
+
+                <div class="box-label attribute">Attribute</div>
+                <div class="box-value attribute">Virus</div>
+
+                <div class="box-label field">Field</div>
+                <div class="box-value field">Deep Savers</div>
+
+                <div class="description">
+                    Lorem ipsum etc etc
+                </div>
+
+                <table>
+                    <caption>Digiskills</caption>
+                    <tr><th>Unit Deploy</th><td>Select a boarded character and launch them straight into combat at speed.</td></tr>
+                    <tr><th>Sky Wave</th><td>Launch a quite unreasonable number of anti-air blasts</td></tr>
+                    <tr><th>Sea Destroyer</th></tr>
                 </table>
             </section>
         </article>

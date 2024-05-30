@@ -36,7 +36,7 @@ More than a bit scatterbrained, compensates by taking notes (on paper, despite p
     level="Rookie"
     species="Hackmon"
     wikimon_page="Huckmon"
-    image="assets/images/Huckmon2.png"
+    image="assets/images/digimon/Hackmon.png"
     description="Just an ordinary hackmon, so far."
     abilities="Ramming stuff with his horn"
     misc="..."
