@@ -161,26 +161,8 @@ characters:
 
           - name: Sargasso Drag
             desc: Conjures ribbons of data that ensnare the target, forcing it to move slowly.
-      
-      - level: Perfect (candidate)
-        species: Regalecusmon
-        image: assets/images/digimon/Regalecusmon.jpg
-        description: |
-          A submarine chimera, the result of a complete redesign to incorporate Zudomon's horn
-          and a freshly developed pincer. It found out what was under Depthmon's helmet, and
-          decided the best thing to do was to replace that with piscine data, plus a new, more
-          bitey, helm, in case of headbutts or chomps.
-        abilities:
-          - name: Briona Strike
-            desc: Charges its sword with electricity, and makes a piercing strike.
-          
-          - name: Corona Discharge
-            desc: Forms an explosive ball of plasma in its pincer, then deliberately fails containment, damaging everything around it.
-          
-          - name: Surf
-            desc: Summons a wave or current to ride on.
         
-      - level: Perfect (candidate)
+      - level: Perfect (non-final candidate)
         species: Gusokumon
         image: assets/images/digimon/Gusokumon.jpg
         description: |
